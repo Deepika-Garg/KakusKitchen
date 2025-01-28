@@ -57,6 +57,17 @@ h1, h2, h3 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+.custom-button-outline
+{
+    border: 3px solid;
+    padding: 7px,25px;
+    color: rgb(107, 4, 4);
+
+}
+.custom-button-outline:hover{
+    background-color: rgb(107, 4, 4);
+    color:#ffffff;
+}
 
 /* Navbar styles with dropdown toggle */
 nav {
@@ -145,6 +156,20 @@ position:relative;
 {
     border-color: black !important; /* Even darker on focus */
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+/*success page*/
+
+.success-box {
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: auto;
+}
+.success-icon {
+    font-size: 60px;
+    color: #28a745;
 }
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
