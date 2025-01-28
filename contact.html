@@ -1,75 +1,143 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta tags for search engines -->
-    <meta name="description"
-        content="Indian authentic vegetarian food served by a cloud kitchen called Kaku's kitchen">
+    <meta name="description" content="Indian authentic vegetarian food served by a cloud kitchen called Kaku's kitchen">
     <meta name="keywords" content="love Food, Vegetarian Indian food, Penarth based, home delivery ">
-<!--Favicon-->
-<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-<link rel="manifest" href="assets/favicon/site.webmanifest">
- <!--Bootstrap 5 CSS-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!--Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <!--Bootstrap 5 CSS-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <!--Custom CSS-->
     <link rel="stylesheet" href="assets/css/style.css">
-   <!--Title-->
+    <!--Title-->
     <title>Kaku's Kitchen</title>
 </head>
-<body>
-     <!--Header section inspired from love running project-->
-<header>
-     <!--Brand Logo-->
-     <a class="navbar-brand" href="index.html">
-        <img src="assets/images/logo.webp" alt="Kaku's Kitchen Logo" id="navbar-logo" class="logo" width="60" height="60">
-    </a>
-    <!--Business Name-->
-    <a href="index.html">
-    <h1 id="logo-title">Kaku's Kitchen</h1>
-    </a>
-    <!--Menu changed to solid bar according to screen size for responsiveness-->
-    <input type="checkbox" id = "nav-toggle" name="nav-toggle">
-    <label for ="nav-toggle" class="nav-toggle-label" ><i class="fa-solid fa-bars"></i></label>
-    <!--Menu bar for exploring the site-->
-        <nav>
-        <ul id="menu">
-            <li><a href="index.html"   aria-label="Go to Home page">Home</a></li>
-            <li><a href="menu.html"  aria-label="Explore our Menu">Menu</a></li>
-            <li><a href="about.html"  aria-label="Learn more About Us">About</a></li>
-            <li><a href="contact.html" class="active" aria-label="Contact us for inquiries">Contact </a></li>
-        </ul>
-    </nav>
-</header>
 
-     <!-- Main content -->
+<body>
+    <!--Header section inspired from love running project-->
+    <header>
+        <!--Brand Logo-->
+        <a class="navbar-brand" href="index.html">
+            <img src="assets/images/logo.webp" alt="Kaku's Kitchen Logo" id="navbar-logo" class="logo" width="60"
+                height="60">
+        </a>
+        <!--Business Name-->
+        <a href="index.html">
+            <h1 id="logo-title">Kaku's Kitchen</h1>
+        </a>
+        <!--Menu changed to solid bar according to screen size for responsiveness-->
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+        <!--Menu bar for exploring the site-->
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html" aria-label="Go to Home page">Home</a></li>
+                <li><a href="menu.html" aria-label="Explore our Menu">Menu</a></li>
+                <li><a href="about.html" aria-label="Learn more About Us">About</a></li>
+                <li><a href="contact.html" class="active" aria-label="Contact us for inquiries">Contact </a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main content -->
     <main>
+        <section id="hero">
+            <div id="cover-text">
+                <h2>Serving Happiness through Food</h2>
+                <h3>Have a look in our delicious menu</h3>
+                <button>Call to Order on +44 744 3922018</button>
+            </div>
+        </section>
+        <!-- contact/inquiry form section -->
+        <section id="form-section" class="container section">
+            <div class="row justify-content-center">
+
+                <!-- my-4 used to add top and bottom margin to heading -->
+                <div class="col-12 text-center my-4">
+                    <h2 class="display-5">Contact Us</h2>
+                </div>
+                
+                    <div class="col-12 col-md-8 my-4 bg-light">
+
+                        <form id="contact-form">
+                            <div class="row">
+                                <div class="col-12 col-lg-6 mb-3">
+                                    <label for="name" class="form-label">Name</label>
+                                    <input type="text" class="form-control" id="name" name="name" required>
+                                </div>
+                                <div class="col-12 col-lg-6 mb-3">
+                                    <label for="email" class="form-label">Email</label>
+                                    <input type="email" class="form-control" id="email" name="email">
+                                </div>
+                                <div class="col-12 col-lg-6 mb-3">
+                                    <label for="phone" class="form-label">Phone number</label>
+                                    <input type="number" class="form-control" id="phone" name="phone" required>
+                                </div>
+                                <div class="col-12 col-lg-6 mb-3">
+                                    <label for="event-type" class="form-label">service</label>
+                                    <select id="event-type" class="form-select form-control" name="event-type" required>
+                                        <option value="" selected>Select</option>
+                                        <option value="regular-menu">Regular food</option>
+                                        <option value="party-menu">Party food</option>
+                                        <option value="custom-menu">Customize food</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-lg-6 mb-3">
+                                    <label for="DeliveryDate" class="form-label">Delivery Date</label>
+                                    <input type="date" class="form-control" id="deliverydate" name="deliverydate"
+                                        required>
+                                </div>
+                                <div class="col-12 mb-3">
+                                    <label for="message" class="form-label">Message</label>
+                                    <textarea class="form-control" rows="6" id="message" name="message"></textarea>
+                                </div>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            
+        </section>
+
 
     </main>
- 
-     <!-- Footer -->
-     
-<footer id="contact">
-    <ul id="social-networks">
-        <li>
-            <a href="https://www.Facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page(Opens in new tab)"><i class="fa-brands fa-facebook"></i></a>
-     
-        </li>
-        <li>
-            <a href="https://www.twitter.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page(Opens in new tab)">  <i class="fa-brands fa-x-twitter"></i></a>
-       </li>
-        <li>
-            <a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page(Opens in new tab)"> <i class="fa-brands fa-square-youtube"></i></a>
-       </li>
-        <li>
-            <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page(Opens in new tab)">  <i class="fa-brands fa-instagram"></i></i></a>
-       </li>
-    </ul>
-</footer>
-<script src="https://kit.fontawesome.com/d0964af309.js" crossorigin="anonymous"></script>
+
+    <!-- Footer -->
+
+    <footer id="contact">
+        <ul id="social-networks">
+            <li>
+                <a href="https://www.Facebook.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page(Opens in new tab)"><i class="fa-brands fa-facebook"></i></a>
+
+            </li>
+            <li>
+                <a href="https://www.twitter.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page(Opens in new tab)"> <i class="fa-brands fa-x-twitter"></i></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page(Opens in new tab)"> <i
+                        class="fa-brands fa-square-youtube"></i></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page(Opens in new tab)"> <i
+                        class="fa-brands fa-instagram"></i></i></a>
+            </li>
+        </ul>
+    </footer>
+    <script src="https://kit.fontawesome.com/d0964af309.js" crossorigin="anonymous"></script>
 
 </body>
+
 </html>
