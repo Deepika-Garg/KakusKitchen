@@ -37,9 +37,9 @@ header a {
     color: inherit;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h5{
     font-family: 'Oswald', Verdana, Geneva, Tahoma, sans-serif;
-    text-transform:lowercase;
+    text-transform:capitalize;
     letter-spacing: 2px;
     color: rgb(107, 4, 4);
 }
@@ -120,6 +120,47 @@ position:relative;
     padding-top: 40px;
     padding-left: 10px;
 }
+/* Card Styles  */
+.card {
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #ddd;
+    
+}
+
+.card-body {
+    padding: 20px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 10px;
+
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+/* Hover Effect */
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
 /*Hero image for menu page*/
 #hero-menu {
     height: 450px;
