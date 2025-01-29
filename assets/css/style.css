@@ -17,6 +17,7 @@ body {
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
     font-weight: 500;
+    background-color:#28a745;
 }
 
 /* Header */
@@ -120,7 +121,7 @@ position:relative;
     padding-top: 40px;
     padding-left: 10px;
 }
-/* Card Styles  */
+/* Card Styles  
 .card {
     border: none;
     border-radius: 8px;
@@ -154,7 +155,7 @@ position:relative;
     color: #666;
     margin-bottom: 15px;
 }
-
+*/
 /* Hover Effect */
 .card:hover {
     transform: translateY(-5px);
@@ -193,11 +194,12 @@ position:relative;
     font-weight: 600;
     /*background-color: rgba(245, 204, 92, 0.7);*/
 }
-.form-control
+.form-control 
 {
     border-color: black !important; /* Even darker on focus */
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
+
 /*success page*/
 
 .success-box {
