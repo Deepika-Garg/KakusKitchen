@@ -16,8 +16,10 @@ body {
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
-    font-weight: 500;
-    background-color:#28a745;
+    font-weight: 600;
+    font-size: large;
+    /*background-color:gold;*/
+
 }
 
 /* Header */
@@ -43,6 +45,10 @@ h1, h2, h3, h5{
     text-transform:capitalize;
     letter-spacing: 2px;
     color: rgb(107, 4, 4);
+}
+p {
+    font-size: medium;
+    font-weight: 500;
 }
 
 #menu {
@@ -182,7 +188,12 @@ position:relative;
     justify-content: space-evenly;
     list-style-type: none;
 }
-
+#contact-footer
+{
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
 #social-networks i {
     font-size: 160%;
     padding: 5%;
