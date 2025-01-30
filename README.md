@@ -1,4 +1,4 @@
-# Kaku's Kitchen project
+# Kaku's Kitchen
 
 
 
