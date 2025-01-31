@@ -18,7 +18,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 600;
     font-size: large;
-    /*background-color:gold;*/
+    background-color: #f8f9fa;
 
 }
 
@@ -41,7 +41,7 @@ header a {
 }
 
 h1, h2, h3, h5{
-    font-family: 'Oswald', Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'montserrat', Verdana, sans-serif;
     text-transform:capitalize;
     letter-spacing: 2px;
     color: rgb(107, 4, 4);
@@ -106,7 +106,7 @@ main {
    
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 #hero {
 height: 450px;
@@ -127,7 +127,7 @@ position:relative;
     padding-top: 40px;
     padding-left: 10px;
 }
-/* Card Styles  
+ /*Card Styles*/  
 .card {
     border: none;
     border-radius: 8px;
@@ -140,6 +140,8 @@ position:relative;
 .card img {
     width: 100%;
     height: auto;
+    min-height: 250px;
+    max-height: 250px;
     border-bottom: 2px solid #ddd;
     
 }
@@ -147,7 +149,9 @@ position:relative;
 .card-body {
     padding: 20px;
     text-align: center;
+
 }
+
 
 .card-title {
     font-size: 1.25rem;
@@ -161,11 +165,20 @@ position:relative;
     color: #666;
     margin-bottom: 15px;
 }
-*/
+
 /* Hover Effect */
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+/*section why choose us */
+#why-choose-us
+{
+    background-color: #ffffff;
+    border:2px  shaded black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
 }
 
 /*Hero image for menu page*/
@@ -179,23 +192,32 @@ position:relative;
 #cover-text > h2, #cover-text > h3 {
     color: #ffffff;
 }
+/*Promise section above footer*/
+#promise-section
+{
+    background-color:rgba(107, 4, 4, .9); 
+    color:#ffffff;
+    padding:8px;
+
+}
 
 /* Footer */
 #social-networks {
     text-align: center;
-    padding: 20px 0;
+    padding: 5px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
 }
 #contact-footer
 {
-    font-size: 160%;
-    padding: 5%;
-    color: #3a3a3a;
+    font-size: 120%;
+    padding: 5px;
+    color: #000000;
+    
 }
 #social-networks i {
-    font-size: 160%;
+    font-size: 120%;
     padding: 5%;
     color: #3a3a3a;
 }
@@ -203,11 +225,11 @@ position:relative;
 #form-section
 {
     font-weight: 600;
-    /*background-color: rgba(245, 204, 92, 0.7);*/
+    
 }
 .form-control 
 {
-    border-color: black !important; /* Even darker on focus */
+    border-color: black;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
