@@ -222,9 +222,10 @@ position:relative;
     color: #3a3a3a;
 }
 /* contact page specific */
-#form-section
+#form-section p
 {
     font-weight: 600;
+   font-size: 120%;
     
 }
 .form-control 
