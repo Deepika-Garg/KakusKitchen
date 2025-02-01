@@ -10,17 +10,17 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
     * [Target Audiences](#Target-Audiences)
     * [User Stories](#User-Stories)
     * [Aims](#Aims)
-    * [How to achieved this](#How-to-achieved-this)
+    * [How to achieve this](#How-to-achieve-this)
  2. [Features](#Features)
-    * [Navigation Bar](#NavigationBar)
-    * [Home Page](#HomePage)
+    * [Navigation Bar](#Navigation-Bar)
+    * [Home Page](#Home-Page)
     * [Menu](#Menu)
-    * [About Us](#AboutUs)
+    * [About Us](#About-Us)
     * [Contact](#Contact)
-    * [Call To Order](#CallToOrder)
+    * [Call To Order](#Call-To-Order)
     * [Footer](#Footer)
- 4. [ColourScheme](#Colourscheme)
- 5. [Final Design](#FinalDesign)
+ 4. [ColourScheme](#Colour-scheme)
+ 5. [Final Design](#Final-Design)
  6. [Deployment](#Deployment)
     * [Repository](#Repository)
     * [Hosting](#Hosting)
@@ -28,7 +28,7 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
     * [Mobile](#Mobile)
     * [Desktop](#Desktop)
  8. [DeBugging](#DeBugging)
- 9. [Technologies Used](#TechnologiesUsed)
+ 9. [Technologies Used](#Technologies-Used)
     * [Languages](#Languages)
     * [Technology](#Technology)
  10. [Project Link](#Projectlink)
@@ -54,12 +54,43 @@ This website was designed with careful consideration of its purpose, target audi
 
    
 ### User Stories
-   
+1. **As a First-Time Customer**:
+   - I want to speak directly with Kaku's Kitchen to understand the ordering process and place an order for tomorrow to ensure I’m prepared in advance.
+
+2. **As a Returning Customer**:
+   - I want to place an order for my favorite dishes a day in advance so that I can avoid missing out due to high demand.
+
+3. **As a Customer Hosting a Gathering**:
+   - I want to call a day in advance to confirm the availability of dishes for a planned gathering so that I can finalize my event preparations.
+
+4. **As a Busy Professional**:
+   - I want the option to schedule an order in advance via the "Call to Order" feature so that I can focus on my work without worrying about meals on the day.
+
+
    
 ### Aims
+- To create a visually appealing, easy-to-navigate website that reflects the warmth and authenticity of Kaku's Kitchen.
+- To provide detailed information about the menu and highlight the 100% vegetarian commitment.
+- To make it simple for users to contact Kaku's Kitchen and place orders.
+- To increase awareness of the cloud kitchen in the local community.
+- To ensure the site is responsive and accessible across all devices.
+
    
 ## How to achieve this
+1. **User-Centered Design**:
+   - Created a simple, intuitive layout with clear navigation to make it easy for users to explore the site.
    
+2. **Content Focus**:
+   - Highlighted key information such as the menu, contact details, and the story of Kaku's Kitchen prominently.
+
+3. **Responsive Design**:
+   - Used HTML, CSS and Bootstrap to ensure the website works seamlessly on desktops, tablets, and mobile devices.
+
+4. **Visual Appeal**:
+   - Incorporated warm colors, high-quality images of food, and an inviting design to capture the essence of Kaku's Kitchen.
+
+5. **Fast Deployment**:
+   - Deployed the site on GitHub Pages for easy access and updates. 
 
  ### Wireframes
 
@@ -67,10 +98,15 @@ This website was designed with careful consideration of its purpose, target audi
 
 
 
-### Courses Page -
+### Menu Page -
 
 
-### Get in Touch -
+### About Page-
+
+### Contact Page-
+
+### Success Page-
+
 
 
 
@@ -130,11 +166,13 @@ Reason for design - I went with a basic yet responsive design that will be invit
 ### Home Page -
 
 
-### Courses Page -
+### Menu Page -
 
 
 
-### CallBack Page -
+### About Page -
+
+### Contact Page -
 
 
 
