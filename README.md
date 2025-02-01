@@ -1,6 +1,8 @@
 # Kaku's Kitchen
 
+Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, established in 2020. Renowned for its authentic flavors and dedication to vegetarian cuisine, Kaku's Kitchen serves a variety of delicious homemade Indian dishes made with love and care. This project is a four-page website designed to showcase the essence of Kaku's Kitchen, featuring a menu, a contact page, and information about the kitchen's story and philosophy.
 
+Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
 ## Table of content
 
