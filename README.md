@@ -36,8 +36,22 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
 
    
  ## Planning
+This website was designed with careful consideration of its purpose, target audience, and user needs. The goal was to create a visually appealing, responsive, and user-friendly platform to showcase the authentic Indian vegetarian cuisine offered by Kaku's Kitchen.
 
 ### Target Audiences
+1. **Vegetarian Food Enthusiasts**:
+   - Individuals looking for authentic, homemade Indian vegetarian dishes that capture the essence of traditional Indian cuisine.
+   
+2. **Cultural Food Lovers**:
+   - Food enthusiasts seeking to explore the rich flavors and traditions of Indian vegetarian food.
+
+3. **Vegetarian Working Couples**:
+   - Busy working couples who prefer a healthy, home-cooked alternative to eating out regularly but want the convenience of prepared meals.
+
+4. **University Students**:
+   - Students living away from home who are vegetarians and need affordable, healthy meal options. Kaku's Kitchen offers a perfect solution for students missing home-cooked meals.
+
+
    
 ### User Stories
    
