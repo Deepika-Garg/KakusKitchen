@@ -7,10 +7,10 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
 ## Table of content
 
  1. [Planning](#Planning)
-    * [Target Audiences](#TargetAudiences)
-    * [User Stories](#UserStories)
+    * [Target Audiences](#Target-Audiences)
+    * [User Stories](#User-Stories)
     * [Aims](#Aims)
-    * [How to achieved this](#Howtoachievedthis)
+    * [How to achieved this](#How-to-achieved-this)
  2. [Features](#Features)
     * [Navigation Bar](#NavigationBar)
     * [Home Page](#HomePage)
