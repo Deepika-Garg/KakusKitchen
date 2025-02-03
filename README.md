@@ -56,6 +56,8 @@ This website was designed with careful consideration of its purpose, target audi
 ### User Stories
 1. **As a First-Time Customer**:
    - I want to speak directly with Kaku's Kitchen to understand the ordering process and place an order for tomorrow to ensure I’m prepared in advance.
+   - I want to navigate the website easily and find out about the menu and eating option. 
+   - I want to know about either it is collection or delievery.
 
 2. **As a Returning Customer**:
    - I want to place an order for my favorite dishes a day in advance so that I can avoid missing out due to high demand.
@@ -95,15 +97,14 @@ This website was designed with careful consideration of its purpose, target audi
  ### Wireframes
 
  ### Home Page - 
-
-
+![alt text](documents/wireframes/home-page.png)
 
 ### Menu Page -
-
-
+![alt text](documents/wireframes/menu-page.png)
 ### About Page-
-
+![alt text](documents/wireframes/about-page.png)
 ### Contact Page-
+![alt text](documents/wireframes/contact-page.png)
 
 ### Success Page-
 
