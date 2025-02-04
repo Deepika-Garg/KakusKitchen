@@ -120,6 +120,9 @@ Reason for design - I went with a basic yet responsive design that will be invit
 
 ## Features 
 
+### Favicon
+Favicon is added in the header of every page with the title.
+[Favicon](readme-images/features/favicon-title-image.png)
 
 ### Navigation Bar
 Navigation bar is located at the top of every page, contains links to all the pages of the site to enable ease of navigation in one convenient location. it is fully responsive for all the devices as laptop, desktop, mobile and tablet. 
@@ -134,24 +137,34 @@ Navigation menu is converted to three vertical bars to save the space. which sho
 
 ![Navigation Bar Mobile](readme-images/features/navbar-mobile.png)
 
+### Footer
+* Footer is available on each page and contain address, Email and phone no details along with social media links for Kaku's Kitchen. These links will open in a new tab for easy navigation for the user.
+* The footer is designed to encourage the user to visit Kaku's Kitchen's social media sites to keep them connected and have the most up to date information.
+
+![Footer image](readme-images/features/footer-image.png)
+
 ### Call TO Order
- Call to Order button is provided in the hero/header section for convenience. User can quickly make a call and place order just by clicking that button.
+ Call to Order button is provided in the hero/header section for convenience. User can quickly make a call and place order just by clicking that button. This button is connected with the contact information in the footer at the moment.
 
- 
+ ![Call to Order Button](readme-images/features/call-to-order-button.png)
 
+### Popular Dishes
 
+Popular dishes images are added in the main section of home page. Images are high quality to make user tempting to buy food. hoover effect are added for better user experience.
+
+![Popular Dishes](readme-images/features/popular-dishes-desktop.png)
 
 ### About Us 
 
 
 
-### What we Offer
+### Menu
 
 
 
-### CallBack
+### contact
+Contact form has been added on the contact page
 
-### Footer
   
  
 ## Colour Scheme

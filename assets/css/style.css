@@ -134,8 +134,8 @@ position:relative;
     width: 90%;
     min-height: 150px;
     padding-top: 30px;
-    padding-left: 20px;
-    margin-left: 20px;   
+    padding-left: 40px;
+    margin-left: 20px;  
 }
  /*Card Styles*/  
 .card {
@@ -271,8 +271,13 @@ position:relative;
         width: fit-content; 
         padding-right: 1rem;
     }
+    .menucard-height
+    {
+        max-height: 775px;
+    }
     #menu {
         display: flex;
+        
     }
     #menu > li {
         padding-left: 1rem;
