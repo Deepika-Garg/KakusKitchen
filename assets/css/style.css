@@ -67,7 +67,7 @@ p {
 .custom-button-outline
 {
     border: 3px solid white;
-    padding: 7px,25px;
+    padding: 7px 25px;
    /* color: rgb(107, 4, 4);*/
    color:white;
    background-color:rgb(107, 4, 4) ; 
@@ -184,7 +184,7 @@ position:relative;
 #why-choose-us
 {
     background-color: #ffffff;
-    border:2px  shaded black;
+    /*border:2px  shaded black;*/
     margin-top: 20px;
     margin-bottom: 20px;
    

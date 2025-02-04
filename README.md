@@ -4,6 +4,9 @@ Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, estab
 
 Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
+
+![alt text](documents/am-i-responsive.png)
+
 ## Table of content
 
  1. [Planning](#Planning)
@@ -101,8 +104,10 @@ This website was designed with careful consideration of its purpose, target audi
 
 ### Menu Page -
 ![alt text](documents/wireframes/menu-page.png)
+
 ### About Page-
 ![alt text](documents/wireframes/about-page.png)
+
 ### Contact Page-
 ![alt text](documents/wireframes/contact-page.png)
 
