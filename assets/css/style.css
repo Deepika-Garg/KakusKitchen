@@ -190,6 +190,7 @@ position:relative;
     margin-bottom: 20px;
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 25px;
    
 }
 
@@ -267,8 +268,7 @@ position:relative;
         display: block;
         position: relative;
         box-shadow: none;
-        width: fit-content;
-        width: auto;
+        width: fit-content; 
         padding-right: 1rem;
     }
     #menu {
