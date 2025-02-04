@@ -15,8 +15,10 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
     * [Aims](#Aims)
     * [How to achieve this](#How-to-achieve-this)
  2. [Features](#Features)
+    * [Favicons](#Favicons)
     * [Navigation Bar](#Navigation-Bar)
-    * [Home Page](#Home-Page)
+    * [Popular Dishes](#Popular-Dishes)
+    * [Why Choose Us](#Why-Choose-Us)
     * [Menu](#Menu)
     * [About Us](#About-Us)
     * [Contact](#Contact)
@@ -122,7 +124,7 @@ Reason for design - I went with a basic yet responsive design that will be invit
 
 ### Favicon
 Favicon is added in the header of every page with the title.
-[Favicon](readme-images/features/favicon-title-image.png)
+![Favicons](readme-images/features/favicon-title-image.png)
 
 ### Navigation Bar
 Navigation bar is located at the top of every page, contains links to all the pages of the site to enable ease of navigation in one convenient location. it is fully responsive for all the devices as laptop, desktop, mobile and tablet. 
@@ -152,19 +154,23 @@ Navigation menu is converted to three vertical bars to save the space. which sho
 
 Popular dishes images are added in the main section of home page. Images are high quality to make user tempting to buy food. hoover effect are added for better user experience.
 
-![Popular Dishes](readme-images/features/popular-dishes-desktop.png)
+![Home Page](readme-images/features/popular-dishes-desktop.png)
+
+### Why Choose Us
+
+I have added 5 star rating for user assurance and given reasons to choose the cloud kitchen.
+![Why Choose Us](readme-images/features/choosing-reason.png)
+
+### Menu
+Easy to read / navigate menu images are used. Prices and ingredients are clearly mentioned with individual food item. Phone number is mentioned in every menu card to make a quick call and place a order. 
+![Food Menu Image](readme-images/features/foodmenu-image.png)
 
 ### About Us 
 
 
-
-### Menu
-
-
-
 ### contact
-Contact form has been added on the contact page
-
+Contact page contain a hero image same as home page and about page. In the main section Form has been added on the contact page, where all the validations has been applied.
+![Form Section](readme-images/features/form-image.png)
   
  
 ## Colour Scheme
