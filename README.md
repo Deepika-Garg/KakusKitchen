@@ -100,16 +100,16 @@ This website was designed with careful consideration of its purpose, target audi
  ### Wireframes
 
  ### Home Page - 
-![alt text](documents/wireframes/home-page.png)
+![alt text](readme-images/wireframes/home-page.png)
 
 ### Menu Page -
-![alt text](documents/wireframes/menu-page.png)
+![alt text](readme-images/wireframes/menu-page.png)
 
 ### About Page-
-![alt text](documents/wireframes/about-page.png)
+![alt text](readme-images/wireframes/about-page.png)
 
 ### Contact Page-
-![alt text](documents/wireframes/contact-page.png)
+![alt text](readme-images/wireframes/contact-page.png)
 
 ### Success Page-
 
@@ -157,7 +157,9 @@ Reason for design - I went with a basic yet responsive design that will be invit
 
 
 ## Testing
-![alt text](image.png)
+HTML 
+![alt text](readme-images/testing/w3c-html-validation.png)
+
 
 ### Mobile
 
@@ -183,6 +185,8 @@ Reason for design - I went with a basic yet responsive design that will be invit
 
 
 ### CSS - 
+css Validation
+![alt text](readme-images/testing/w3c-css-validation.png)
 
 
 
