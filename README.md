@@ -122,7 +122,24 @@ Reason for design - I went with a basic yet responsive design that will be invit
 
 
 ### Navigation Bar
-  
+Navigation bar is located at the top of every page, contains links to all the pages of the site to enable ease of navigation in one convenient location. it is fully responsive for all the devices as laptop, desktop, mobile and tablet. 
+The logo is clickable with a link back to the home page for enhanced UX. 
+
+Desktop: 
+
+![Navigation Bar Desktop](readme-images/features/navbar-desktop.png)
+
+Mobile:
+Navigation menu is converted to three vertical bars to save the space. which shows its responsiveness.
+
+![Navigation Bar Mobile](readme-images/features/navbar-mobile.png)
+
+### Call TO Order
+ Call to Order button is provided in the hero/header section for convenience. User can quickly make a call and place order just by clicking that button.
+
+ 
+
+
 
 ### About Us 
 
