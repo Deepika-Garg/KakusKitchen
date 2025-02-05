@@ -27,11 +27,14 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
  4. [ColourScheme](#Colour-scheme)
  5. [Final Design](#Final-Design)
  6. [Deployment](#Deployment)
-    * [Repository](#Repository)
-    * [Hosting](#Hosting)
  7. [Testing](#Testing)
-    * [Mobile](#Mobile)
-    * [Desktop](#Desktop)
+    * [AUTOMATED TESTING](#automated-testing)
+      * [W3C Validator](#w3c-validator)
+      * [Lighthouse](#lighthouse)
+    * [MANUAL TESTING](#manual-testing)
+      * [Testing User Stories](#testing-user-stories)
+      * [Manual Link Testing](#manual-link-testing)
+      * [Real World Testing](#real-world-testing)
  8. [DeBugging](#DeBugging)
  9. [Technologies Used](#Technologies-Used)
     * [Languages](#Languages)
@@ -174,36 +177,115 @@ Contact page contain a hero image same as home page and about page. In the main 
   
  
 ## Colour Scheme
-
-
+rgb(107, 4, 4);
+#3a3a3a;
+ #f8f9fa;
+  #ffffff;
+  #fff;
+   #333;
+   #666;
+  #000000;
+   #28a745;
+![alt text](colorscheme.png)
 
 ## Final Design
 
+
 ## Deployment
 
-### Repository
+This site was deployed through GitHub Pages using the following steps:
 
+Log into GitHub.
+Locate the repository. In my case it is Deepika-Garg/Kaku's Kitchen
+Click the "settings" button.
+Then go to "Pages" tab in the left hand side sidebar.
+Once on the pages site I would ensure the following settings were applied;
+	Source would need to be set to ‘Deploy from branch’
+	Branch will need to be set to main and then root. 
+Click the save button.
+The site has now been deployed, please note that this process may take a few minutes before the site goes live.
+The page will update and at the top it will say: "Your site is ready to be published at
+ https://deepika-garg.github.io/KakusKitchen/
 
+### Local Development
+How to Fork
+To fork the repository:
 
-### Hosting
+Log in (or sign up) to Github.
+Go to the repository for this project, Deepika-Garg/Kaku's Kitchen
+Click the Fork button in the top right corner.
 
+How to Clone
+To clone the repository:
 
-
-
-
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, Deepika-Garg/Kaku's Kitchen
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned Directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
-HTML 
+
+
+I tested my site throughout the entire build. I have gone through each page using google chrome developer tools to ensure that each page is responsive on different screen sizes and devices and troubleshoot any issues as I went along.
+- - -
+
+## AUTOMATED TESTING
+
+### W3C Validator
+
+[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+
+### HTML- 
 ![alt text](readme-images/testing/w3c-html-validation.png)
+### CSS - 
+css Validation
+![alt text](readme-images/testing/w3c-css-validation.png)
 
 
-### Mobile
+### Lighthouse
+
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+
+### Desktop Results
+
+All pages of the site are achieving a score of above 90 or better across the 4 categories.
+
+![index.html](readme-images/testing/lighthouse-homepage.png)
+
+![menu.html](readme-images/testing/lighthouse-menupage.png)
+
+![about.html](readme-images/testing/lighthouse-aboutpage.png)
+
+![contact.html](readme-images/testing/lighthouse-contactpage.png)
+
+![success.html](readme-images/testing/lighthouse-successpage.png)
 
 
+### Mobile Results
 
-### Desktop
+All pages of the site on mobile devices are achieving a score of 91 or better across the 4 categories.
 
+![index.html](docs/testing/cdt-index-mobile.png)
 
+![services.html](docs/testing/cdt-services-mobile.png)
+
+![contact.html](docs/testing/cdt-contact-mobile.png)
+
+![success.html](docs/testing/cdt-success-mobile.png)
+
+![404.html](docs/testing/cdt-404-mobile.png)
+
+- - -
+
+## MANUAL TESTING
+
+### Testing User Stories
+
+`First Time Customer`
+
+| Goals | Actions |
+| :--- | :--- |
 
 ## DeBugging
 
@@ -220,9 +302,7 @@ HTML
 
 
 
-### CSS - 
-css Validation
-![alt text](readme-images/testing/w3c-css-validation.png)
+
 
 
 

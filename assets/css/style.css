@@ -75,7 +75,7 @@ p {
 {
     border: 3px solid white;
     padding: 7px 25px;
-   /* color: rgb(107, 4, 4);*/
+   
    color:white;
    background-color: var(--primary-color);       
 }
@@ -128,7 +128,7 @@ position:relative;
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: var(--primary-color-opacity);
+   /* background-color: var(--primary-color-opacity);*/
     position: absolute;
     bottom: 150px;
     width: 90%;
@@ -273,6 +273,8 @@ position:relative;
     }
     .menucard-height
     {
+        width: 100;
+        height: auto;
         max-height: 775px;
     }
     #menu {
