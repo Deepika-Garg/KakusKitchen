@@ -63,9 +63,9 @@ This website was designed with careful consideration of its purpose, target audi
    
 ### User Stories
 1. **As a First-Time Customer**:
-   - I want to speak directly with Kaku's Kitchen to understand the ordering process and place an order for tomorrow to ensure I’m prepared in advance.
    - I want to navigate the website easily and find out about the menu and eating option. 
-   - I want to know about either it is collection or delievery.
+   - As it is a call to order style business as a new customer I want to speak directly with Kaku's Kitchen to understand the ordering process and place an order.
+   - I want to know about either it is collection or delievery. 
 
 2. **As a Returning Customer**:
    - I want to place an order for my favorite dishes a day in advance so that I can avoid missing out due to high demand.
@@ -237,10 +237,10 @@ I tested my site throughout the entire build. I have gone through each page usin
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
 ### HTML- 
-![alt text](readme-images/testing/w3c-html-validation.png)
+![alt text](readme-images/testing/w3c-html-validation.png) - Passed
 ### CSS - 
 css Validation
-![alt text](readme-images/testing/w3c-css-validation.png)
+![alt text](readme-images/testing/w3c-css-validation.png) - Passed, No error found.
 
 
 ### Lighthouse
@@ -252,18 +252,23 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 All pages of the site are achieving a score of above 90 or better across the 4 categories.
 
 Home
+
 ![index.html](readme-images/testing/lighthouse-homepage.png)
 
 Menu
+
 ![menu.html](readme-images/testing/lighthouse-menupage.png)
 
 About
+
 ![about.html](readme-images/testing/lighthouse-aboutpage.png)
 
 Contact
+
 ![contact.html](readme-images/testing/lighthouse-contactpage.png)
 
 Success
+
 ![success.html](readme-images/testing/lighthouse-successpage.png)
 
 
@@ -272,18 +277,23 @@ Success
 All pages of the site on mobile devices are achieving good score across the 4 categories.
 
 Home
+
 ![index.html](readme-images/testing/LHMobile-home.png)
 
 Menu
+
 ![menu.html](readme-images/testing/LHMobile-menu.png)
 
 About
+
 ![about.html](readme-images/testing/LHMobile-about.png)
 
 Contact
+
 ![contact.html](readme-images/testing/LHMobile-contact.png)
 
 Success
+
 ![success.html](readme-images/testing/LHMobile-success.png)
 
 - - -
@@ -292,10 +302,94 @@ Success
 
 ### Testing User Stories
 
-`First Time Customer`
+`As a Customer`
 
 | Goals | Actions |
 | :--- | :--- |
+| As a new customer I want to know about the business. What it is and what does it offer.| I mentioned in cover text it is 100% indian vegetarian food cloud kithen. I added a Call to Order button to show it's call to order approach.| 
+| As a new customer I want to be able to easily navigate the website. | I added a navigation bar to all pages that gives the user an easy way to navigate the website. |
+| As a new customer I want to be able to easily find the contact details. | I added a footer with basic contact details for the Business. |
+| As a new customer I want to find out the menu and speciality of the business. | I added a card section on home page with the six popular dishes of Kaku's Kitchen. I have added a full menu offered by Kaku's Kitchen on menu page and navigation bar is on the top of all pages to go menu page.  |
+
+### Manual Link Testing
+
+#### __Global__
+
+- - -
+
+__Navigation bar__
+
+![The navbar is available on all pages](readme-images/features/navbar-desktop.png)
+
+__Expected__
+
+I expect the nav bar to link all the pages together and give easy navigation of the website. On each respective page the navbar will show what page you are on as shown below.
+
+Home page - Home option is underlined to show current page.
+![Navbar with home page being shown as the active page](readme-images/testing/ManualTesting/Navbar-home.png)
+
+Menu page - Menu option is underlined to show current page.
+![Navbar with menu page being shown as the active page](readme-images/testing/ManualTesting/Navbar-menu.png)
+
+Contact page - Contact option is underlined to show current page.
+![Navbar with contact page being shown as the active page](readme-images/testing/ManualTesting/Navbar-contact.png)
+
+About page - About option is underlined to show current page.
+![Navbar with about page being shown as the active page](readme-images/testing/ManualTesting/Navbar-about.png)
+
+Success page - For success page contact option is highlighted as it is extension of contact page.
+![Navbar with success page is an extention of the contact page](readme-images/testing/ManualTesting/Navbar-success.png)
+
+__Results__
+
+The navigation bar on all the pages works as designed and as expected.
+
+- - -
+
+__Footer__
+
+![The footer is carried across all pages](readme-images/testing/ManualTesting/TestFooter.png)
+
+__Expected__
+
+The social media links open up to the respective home page in a new tab.
+
+__Results__
+
+Worked as intended.
+
+- - - 
+
+#### __Home Page__
+
+- - -
+
+__Hero call to action button__
+
+![Call to action button on home page]
+__Expected__
+
+The user will click on the button which will take them to the contact detail in the footer section.
+
+__Results__
+
+The button worked as expected.
+
+- - -
+
+#### __Contact Page__
+
+- - - 
+
+__Form__
+
+![The form on the contact page]
+
+- - -
+
+__Form validation__
+
+
 
 ## DeBugging
 
