@@ -120,7 +120,7 @@ main {
     margin-top: 50px;
 }
 #hero {
-height: 450px;
+height: 350px;
 width: 100%;
 background: url("../images/hero-image.webp") no-repeat center center/cover;
 position:relative;
@@ -128,9 +128,9 @@ position:relative;
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-   /* background-color: var(--primary-color-opacity);*/
+    background-color: var(--primary-color-opacity);
     position: absolute;
-    bottom: 150px;
+    bottom: 80px;
     width: 90%;
     min-height: 150px;
     padding-top: 30px;
@@ -196,7 +196,7 @@ position:relative;
 
 /*Hero image for menu page*/
 #hero-menu {
-    height: 450px;
+    height: 350px;
     width: 100%;
     background: url("../images/hero-menuimage.webp") no-repeat center center/cover;
     position:relative;

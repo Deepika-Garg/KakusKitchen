@@ -309,10 +309,39 @@ All pages of the site on mobile devices are achieving a score of 91 or better ac
 
 ## Technologies Used
 
-### Languages
 
-### Technology
-*
+### Languages
+Languages Used
+HTML - To create a basic site.
+CSS - To create a nice style and to stand-out.
+
+
+## Technologies Used
+
+### Frameworks, Libraries & Programs Used
+
+[Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+
+[Github](https://github.com/) - To save and store the files for the website.
+
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+[Font Awesome](https://fontawesome.com/) - For the iconography on the website.
+
+[Bootstrap Version 5](https://getbootstrap.com/) - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+
+[Favicon.io](https://favicon.io/) To create favicon.
+
+[StockAdobe]()
+
+[Compressor](https://compressor.io/) To compress images.
+
+[Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+[Webaim](https://wave.webaim.org/) to test accesibility of the deployed website.
+
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+Visual Studio Code is used as an editor to write code.
 
 ## Project Link
 
