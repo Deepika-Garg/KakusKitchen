@@ -253,23 +253,23 @@ All pages of the site are achieving a score of above 90 or better across the 4 c
 
 Home
 
-![index.html](readme-images/testing/lighthouse-homepage.png)
+![index.html](readme-images/testing/LighthouseTesting/lighthouse-homepage.png)
 
 Menu
 
-![menu.html](readme-images/testing/lighthouse-menupage.png)
+![menu.html](readme-images/testing/LighthouseTesting/lighthouse-menupage.png)
 
 About
 
-![about.html](readme-images/testing/lighthouse-aboutpage.png)
+![about.html](readme-images/testing/LighthouseTesting/lighthouse-aboutpage.png)
 
 Contact
 
-![contact.html](readme-images/testing/lighthouse-contactpage.png)
+![contact.html](readme-images/testing/LighthouseTesting/lighthouse-contactpage.png)
 
 Success
 
-![success.html](readme-images/testing/lighthouse-successpage.png)
+![success.html](readme-images/testing/LighthouseTesting/lighthouse-successpage.png)
 
 
 ### Mobile Results
@@ -278,23 +278,23 @@ All pages of the site on mobile devices are achieving good score across the 4 ca
 
 Home
 
-![index.html](readme-images/testing/LHMobile-home.png)
+![index.html](readme-images/testing/LighthouseTesting/LHMobile-home.png)
 
 Menu
 
-![menu.html](readme-images/testing/LHMobile-menu.png)
+![menu.html](readme-images/testing/LighthouseTesting/LHMobile-menu.png)
 
 About
 
-![about.html](readme-images/testing/LHMobile-about.png)
+![about.html](readme-images/testing/LighthouseTesting/LHMobile-about.png)
 
 Contact
 
-![contact.html](readme-images/testing/LHMobile-contact.png)
+![contact.html](readme-images/testing/LighthouseTesting/LHMobile-contact.png)
 
 Success
 
-![success.html](readme-images/testing/LHMobile-success.png)
+![success.html](readme-images/testing/LighthouseTesting/LHMobile-success.png)
 
 - - -
 
@@ -326,19 +326,19 @@ __Expected__
 I expect the nav bar to link all the pages together and give easy navigation of the website. On each respective page the navbar will show what page you are on as shown below.
 
 Home page - Home option is underlined to show current page.
-![Navbar with home page being shown as the active page](readme-images/testing/ManualTesting/Navbar-home.png)
+![Navbar with home page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-home.png)
 
 Menu page - Menu option is underlined to show current page.
-![Navbar with menu page being shown as the active page](readme-images/testing/ManualTesting/Navbar-menu.png)
+![Navbar with menu page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-menu.png)
 
 Contact page - Contact option is underlined to show current page.
-![Navbar with contact page being shown as the active page](readme-images/testing/ManualTesting/Navbar-contact.png)
+![Navbar with contact page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-contact.png)
 
 About page - About option is underlined to show current page.
-![Navbar with about page being shown as the active page](readme-images/testing/ManualTesting/Navbar-about.png)
+![Navbar with about page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-about.png)
 
 Success page - For success page contact option is highlighted as it is extension of contact page.
-![Navbar with success page is an extention of the contact page](readme-images/testing/ManualTesting/Navbar-success.png)
+![Navbar with success page is an extention of the contact page](readme-images/testing/ManualTesting/Navbar/Navbar-success.png)
 
 __Results__
 
@@ -352,7 +352,7 @@ __Footer__
 
 __Expected__
 
-The social media links open up to the respective home page in a new tab.
+The social media links open up to the respective home page in a new tab. Pinned address will take you to the google map in new tab.
 
 __Results__
 
@@ -371,6 +371,8 @@ __Expected__
 
 The user will click on the button which will take them to the contact detail in the footer section.
 
+![Call to Order button](readme-images/testing/ManualTesting/CallToAction.png)
+
 __Results__
 
 The button worked as expected.
@@ -383,33 +385,41 @@ The button worked as expected.
 
 __Form__
 
-![The form on the contact page]
+![The form on the contact page](readme-images/testing/ManualTesting/FormValidation/FormImage.png)
+
 
 - - -
 
 __Form validation__
+![Name](readme-images/testing/ManualTesting/FormValidation/NameValidation.png)
+![alt text](image-1.png)
+
+![Email](readme-images/testing/ManualTesting/FormValidation/EmailValidation.png)
+
+![Phone Number](readme-images/testing/ManualTesting/FormValidation/PhoneValidation.png)
+
+Validation has been checked manually on all the field like above.
+
+Filled form ready to submit. Once you hit the submit button, it will direct you to the Thankyou/Success page. 
+
+![Filled Form](readme-images/testing/ManualTesting/FormValidation/FilledForm.png)
+
+__Results__
+
+Form is working as expected. 
 
 
+__ThankYou Page__
 
-## DeBugging
+![Sucess Page](readme-images/testing/SuccessPageValidation.png)
 
-### Home Page -
+Back to Home button on contact form will take you back to the home page.
 
+![Back to Home button](readme-images/testing/backtohomeValidation.png)
 
-### Menu Page -
+__Result__
 
-
-
-### About Page -
-
-### Contact Page -
-
-
-
-
-
-
-
+Success page is working as expected.
 
 ## Technologies Used
 
