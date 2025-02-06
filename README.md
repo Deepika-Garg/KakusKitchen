@@ -251,30 +251,40 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 All pages of the site are achieving a score of above 90 or better across the 4 categories.
 
+Home
 ![index.html](readme-images/testing/lighthouse-homepage.png)
 
+Menu
 ![menu.html](readme-images/testing/lighthouse-menupage.png)
 
+About
 ![about.html](readme-images/testing/lighthouse-aboutpage.png)
 
+Contact
 ![contact.html](readme-images/testing/lighthouse-contactpage.png)
 
+Success
 ![success.html](readme-images/testing/lighthouse-successpage.png)
 
 
 ### Mobile Results
 
-All pages of the site on mobile devices are achieving a score of 91 or better across the 4 categories.
+All pages of the site on mobile devices are achieving good score across the 4 categories.
 
-![index.html](docs/testing/cdt-index-mobile.png)
+Home
+![index.html](readme-images/testing/LHMobile-home.png)
 
-![services.html](docs/testing/cdt-services-mobile.png)
+Menu
+![menu.html](readme-images/testing/LHMobile-menu.png)
 
-![contact.html](docs/testing/cdt-contact-mobile.png)
+About
+![about.html](readme-images/testing/LHMobile-about.png)
 
-![success.html](docs/testing/cdt-success-mobile.png)
+Contact
+![contact.html](readme-images/testing/LHMobile-contact.png)
 
-![404.html](docs/testing/cdt-404-mobile.png)
+Success
+![success.html](readme-images/testing/LHMobile-success.png)
 
 - - -
 
@@ -351,6 +361,6 @@ Visual Studio Code is used as an editor to write code.
 Kaku's Kitchen website was built using the below sources
 
  * Code insitute - Inspiration from Love Running & Boaredwalk projects 
- * [Favicon from icons8](https://icons8.com/)
+ * [Favicon from]()
  * [Font awesome](https://fontawesome.com/)
  * [Bootstrap for custom button](https://getbootstrap.com/)
