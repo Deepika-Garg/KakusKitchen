@@ -46,7 +46,7 @@ header a {
     color: inherit;
 }
 
-h1, h2, h3, h5{
+h1, h2, h5{
     font-family: 'montserrat', Verdana, sans-serif;
     text-transform:capitalize;
     letter-spacing: 2px;

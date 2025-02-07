@@ -5,8 +5,6 @@ Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, estab
 Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
 
-![alt text](documents/am-i-responsive.png)
-
 ## Table of content
 
  1. [Planning](#Planning)
@@ -169,13 +167,13 @@ Easy to read / navigate menu images are used. Prices and ingredients are clearly
 ![Food Menu Image](readme-images/features/foodmenu-image.png)
 
 ### About Us 
-
+Mission and history is provided in about section.
+![About Image](readme-images/features/about-image.png)
 
 ### contact
 Contact page contain a hero image same as home page and about page. In the main section Form has been added on the contact page, where all the validations has been applied.
 ![Form Section](readme-images/features/form-image.png)
   
- 
 ## Colour Scheme
 rgb(107, 4, 4);
 #3a3a3a;
@@ -195,16 +193,16 @@ rgb(107, 4, 4);
 
 This site was deployed through GitHub Pages using the following steps:
 
-Log into GitHub.
-Locate the repository. In my case it is Deepika-Garg/Kaku's Kitchen
-Click the "settings" button.
-Then go to "Pages" tab in the left hand side sidebar.
-Once on the pages site I would ensure the following settings were applied;
-	Source would need to be set to ‘Deploy from branch’
-	Branch will need to be set to main and then root. 
-Click the save button.
+1. Log into GitHub.
+2. Locate the repository. In my case it is Deepika-Garg/Kaku's Kitchen
+3. Click the "settings" button.
+4. Then go to "Pages" tab in the left hand side sidebar.
+5. Once on the pages site I would ensure the following settings were applied
+	5.1.  Source would need to be set to ‘Deploy from branch’
+	5.2.  Branch will need to be set to main and then root. 
+6. Click the save button.
 The site has now been deployed, please note that this process may take a few minutes before the site goes live.
-The page will update and at the top it will say: "Your site is ready to be published at
+7. The page will update and at the top it will say: "Your site is ready to be published at
  https://deepika-garg.github.io/KakusKitchen/
 
 ### Local Development
@@ -366,12 +364,10 @@ Worked as intended.
 
 __Hero call to action button__
 
-![Call to action button on home page]
+![Call to action button on home page](readme-images/testing/ManualTesting/CallToAction.png)
 __Expected__
 
 The user will click on the button which will take them to the contact detail in the footer section.
-
-![Call to Order button](readme-images/testing/ManualTesting/CallToAction.png)
 
 __Results__
 
