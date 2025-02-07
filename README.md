@@ -6,7 +6,7 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
 
 site :  https://deepika-garg.github.io/KakusKitchen/
 
-![Responsive image](readme-images/Responsiveimage.png)
+![Responsive image](readme-images/AmIResponsive/Responsiveimage.png)
 
 
 ## Table of content
@@ -16,7 +16,12 @@ site :  https://deepika-garg.github.io/KakusKitchen/
     * [User Stories](#User-Stories)
     * [Aims](#Aims)
     * [How to achieve this](#How-to-achieve-this)
- 2. [Features](#Features)
+ 2. [Design](#Design)
+      * [Wireframes](#Wireframes)
+      * [ColourScheme](#Colour-scheme)
+      * [Typography](#Typography)
+      * [Imagery](#imagery)   
+ 3. [Features](#Features)
     * [Favicons](#Favicons)
     * [Navigation Bar](#Navigation-Bar)
     * [Popular Dishes](#Popular-Dishes)
@@ -26,10 +31,9 @@ site :  https://deepika-garg.github.io/KakusKitchen/
     * [Contact](#Contact)
     * [Call To Order](#Call-To-Order)
     * [Footer](#Footer)
- 4. [ColourScheme](#Colour-scheme)
- 5. [Final Design](#Final-Design)
- 6. [Deployment](#Deployment)
- 7. [Testing](#Testing)
+ 4. [Final Design](#Final-Design)
+ 5. [Deployment](#Deployment)
+ 6. [Testing](#Testing)
     * [AUTOMATED TESTING](#automated-testing)
       * [W3C Validator](#w3c-validator)
       * [Lighthouse](#lighthouse)
@@ -37,12 +41,11 @@ site :  https://deepika-garg.github.io/KakusKitchen/
       * [Testing User Stories](#testing-user-stories)
       * [Manual Link Testing](#manual-link-testing)
       * [Real World Testing](#real-world-testing)
- 8. [DeBugging](#DeBugging)
- 9. [Technologies Used](#Technologies-Used)
+ 7. [Technologies Used](#Technologies-Used)
     * [Languages](#Languages)
     * [Technology](#Technology)
- 10. [Project Link](#Projectlink)
- 11. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
+ 8. [Project Link](#Project-link)
+ 9. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
    
  ## Planning
@@ -104,24 +107,32 @@ This website was designed with careful consideration of its purpose, target audi
 5. **Fast Deployment**:
    - Deployed the site on GitHub Pages for easy access and updates. 
 
+## Design
+
  ### Wireframes
 
- ### Home Page - 
+ #### Home Page - 
 ![alt text](readme-images/wireframes/home-page.png)
 
-### Menu Page -
+#### Menu Page -
 ![alt text](readme-images/wireframes/menu-page.png)
 
-### About Page-
+#### About Page-
 ![alt text](readme-images/wireframes/about-page.png)
 
-### Contact Page-
+#### Contact Page-
 ![alt text](readme-images/wireframes/contact-page.png)
 
-### Success Page-
+### Colour Scheme
+Very less colors are used so that focus remains on images.
 
+![color scheme](readme-images/colorscheme.png)
 
+### Typography
+The font-families chosen are montserrat and Lora. For consistency I used montserrat for headings and titles and Lora was used for the text on the body and cards body.
 
+### Imagery
+Imagery plays a very important part in the design for this website. I chose bright colourful tempting food images that complimented each other on the page. I added a hoover effect on the images of home page to give it more life.
 
 Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving out all the relevent information.
 
@@ -140,6 +151,7 @@ Desktop:
 ![Navigation Bar Desktop](readme-images/features/navbar-desktop.png)
 
 Mobile:
+
 Navigation menu is converted to three vertical bars to save the space. which shows its responsiveness.
 
 ![Navigation Bar Mobile](readme-images/features/navbar-mobile.png)
@@ -177,10 +189,7 @@ Mission and history is provided in about section.
 ### contact
 Contact page contain a hero image same as home page and about page. In the main section Form has been added on the contact page, where all the validations has been applied.
 ![Form Section](readme-images/features/form-image.png)
-  
-## Colour Scheme
 
-![color scheme](readme-images/colorscheme.png)
 
 ## Final Design
 ### Home page Responsiveness
@@ -253,8 +262,6 @@ I tested my site throughout the entire build. I have gone through each page usin
 ![contact html validation](readme-images/testing/w3cTesting/w3c-html-contact-validation.png) - Passed
 
 ![success html validation](readme-images/testing/w3cTesting/w3c-html-success-validation.png) - Passed
-
-
 
 ### CSS - 
 css Validation
@@ -437,18 +444,39 @@ __Result__
 
 Success page is working as expected.
 
-## Technologies Used
+## REAL WORLD TESTING
 
+Real World testing was performed on the following devices:
+
+* Laptop:
+  * Macbook Air
+  * Microsoft windows
+* Tablet
+  * iPad 
+* Mobile Devices:
+  * iPhone 13 
+  * iPhone 15 pro
+  
+
+Each device tested the site using the following browsers:
+
+* Google Chrome
+* Safari
+
+## Technologies Used
 
 ### Languages
 Languages Used
 HTML - To create a basic site.
 CSS - To create a nice style and to stand-out.
 
-
 ### Technology 
 
 ### Frameworks, Libraries & Programs Used
+
+Kaku's Kitchen website was built using the below sources
+
+Code insitute - Inspiration from Love Running & Boaredwalk projects 
 
 [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
 
@@ -479,12 +507,10 @@ Visual Studio Code is used as an editor to write code.
 
 ## Project Link
 
+ https://deepika-garg.github.io/KakusKitchen/
 
 ## Acknowledgments / Thank you's
 
-Kaku's Kitchen website was built using the below sources
 
- * Code insitute - Inspiration from Love Running & Boaredwalk projects 
- * [Favicon from]()
- * [Font awesome](https://fontawesome.com/)
- * [Bootstrap for custom button](https://getbootstrap.com/)
+
+ 
