@@ -46,7 +46,7 @@ header a {
     color: inherit;
 }
 
-h1, h2, h5{
+h1, h2, h3, h5{
     font-family: 'montserrat', Verdana, sans-serif;
     text-transform:capitalize;
     letter-spacing: 2px;
@@ -165,14 +165,14 @@ position:relative;
 
 .card-title {
     font-size: 1.25rem;
-    color: #333;
+    color: #3a3a3a;
     margin-bottom: 10px;
 
 }
 
 .card-text {
     font-size: 1rem;
-    color: #666;
+    color: #3a3a3a;
     margin-bottom: 15px;
 }
 

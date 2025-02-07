@@ -4,6 +4,10 @@ Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, estab
 
 Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
+site :  https://deepika-garg.github.io/KakusKitchen/
+
+![Responsive image](readme-images/Responsiveimage.png)
+
 
 ## Table of content
 
@@ -175,19 +179,23 @@ Contact page contain a hero image same as home page and about page. In the main 
 ![Form Section](readme-images/features/form-image.png)
   
 ## Colour Scheme
-rgb(107, 4, 4);
-#3a3a3a;
- #f8f9fa;
-  #ffffff;
-  #fff;
-   #333;
-   #666;
-  #000000;
-   #28a745;
-![alt text](colorscheme.png)
+
+![color scheme](readme-images/colorscheme.png)
 
 ## Final Design
+### Home page Responsiveness
 
+![Home Page](readme-images/AmIResponsive/HomeResponsive.png)
+
+### Menu page Responsiveness
+![Menu Page](readme-images/AmIResponsive/MenuResponsive.png)
+
+### About Page Responsiveness
+![About Page](readme-images/AmIResponsive/AboutResponsive.png)
+
+### Contact page Responsiveness
+
+![Contact Page](readme-images/AmIResponsive/ContactResponsive.png)
 
 ## Deployment
 
@@ -234,11 +242,23 @@ I tested my site throughout the entire build. I have gone through each page usin
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-### HTML- 
-![alt text](readme-images/testing/w3c-html-validation.png) - Passed
+### HTML-
+
+![index html validation](readme-images/testing/w3cTesting/w3c-html-index-validation.png) - Passed
+
+![menu html validation](readme-images/testing/w3cTesting/w3c-html-menu-validation.png) - Passed
+
+![about html validation](readme-images/testing/w3cTesting/w3c-html-about-validation.png) - Passed
+
+![contact html validation](readme-images/testing/w3cTesting/w3c-html-contact-validation.png) - Passed
+
+![success html validation](readme-images/testing/w3cTesting/w3c-html-success-validation.png) - Passed
+
+
+
 ### CSS - 
 css Validation
-![alt text](readme-images/testing/w3c-css-validation.png) - Passed, No error found.
+![alt text](readme-images/testing/w3cTesting/w3c-css-validation.png) - Passed, No error found.
 
 
 ### Lighthouse
@@ -426,7 +446,7 @@ HTML - To create a basic site.
 CSS - To create a nice style and to stand-out.
 
 
-## Technologies Used
+### Technology 
 
 ### Frameworks, Libraries & Programs Used
 
@@ -442,9 +462,13 @@ CSS - To create a nice style and to stand-out.
 
 [Favicon.io](https://favicon.io/) To create favicon.
 
-[StockAdobe]()
+[StockAdobe](https://stock.adobe.com/uk/) - All the images are borrowed from Stock Adobe.
 
-[Compressor](https://compressor.io/) To compress images.
+[Image Resizer](https://imageresizer.com/)- For resizing images and compress them.
+
+[Compressor](https://compressor.io/) - To compress images.
+
+[Convertio](https://convertio.co/) - To covert images to WebP format. 
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
