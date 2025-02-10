@@ -511,6 +511,13 @@ Visual Studio Code is used as an editor to write code.
 
 ## Acknowledgments / Thank you's
 
+I would like to thank following people for the help and advise they have given me in this project.
 
+My mentor Precious Ijege for his guidence and feedback throughout this milestone project.
+Marco Tot our class cohort facilitator for his constant assistance and encouragement.
+Slack Community for their endless support.
+Kera Cudmore for creating the structure of Readme document. 
+Code institute for the outstanding course documentation.
+Finally, I would like to thank my friend to allow me to use her business details for this project. 
 
  
