@@ -516,7 +516,7 @@ I would like to thank following people for the help and advise they have given m
 * My mentor Precious Ijege for his guidence and feedback throughout this milestone project.
 * Marco Tot our class cohort facilitator for his constant assistance and encouragement.
 * Slack Community for their endless support.
-* Kera Cudmore for creating the structure of Readme document. 
+* Kera Cudmore for telling how to create the structure of Readme [document](https://github.com/kera-cudmore/readme-examples). 
 * Code institute for the outstanding course documentation.
 * Finally, I would like to thank my friend to allow me to use her business details for this project. 
 
