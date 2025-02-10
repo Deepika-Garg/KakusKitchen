@@ -4,7 +4,7 @@ Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, estab
 
 Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
- site :  <a href=" https://deepika-garg.github.io/KakusKitchen/index.html" target="_blank" rel="noopener">Kaku's Kitchen</a>
+ site :  <a href="https://deepika-garg.github.io/KakusKitchen/index.html" target="_blank" rel="noopener">Kaku's Kitchen</a>
 
 ![Kaku's Kitchen Responsive image](readme-images/AmIResponsive/Responsiveimage.png)
 
@@ -38,13 +38,6 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
  6. [Final Design](#Final-Design)
  7. [Deployment](#Deployment)
  8. [Testing](#Testing)
-    * [Code Validation](#Code-Validation)
-      * [W3C Validator](#w3c-validator)
-      * [Lighthouse](#lighthouse)
-    * [Manual Testing](#manual-testing)
-      * [Testing User Stories](#testing-user-stories)
-      * [Manual Link Testing](#manual-link-testing)
-      * [Devices Testing](#Devices-testing)
  9. [Credit](#Credit)
       * [Media](#media)
       * [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)

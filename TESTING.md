@@ -1,5 +1,14 @@
 # Testing
 
+[Testing](#Testing)
+    * [Code Validation](#Code-Validation)
+      * [W3C Validator](#w3c-validator)
+      * [Lighthouse](#lighthouse)
+    * [Manual Testing](#manual-testing)
+      * [Testing User Stories](#testing-user-stories)
+      * [Manual Link Testing](#manual-link-testing)
+      * [Devices Testing](#Devices-testing)
+
 ## Code Validation
 
 ### W3C Validator
