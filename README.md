@@ -4,9 +4,9 @@ Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, estab
 
 Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
-site :  https://deepika-garg.github.io/KakusKitchen/
+ site :  <a href=" https://deepika-garg.github.io/KakusKitchen/index.html" target="_blank" rel="noopener">Kaku's Kitchen</a>
 
-![Responsive image](readme-images/AmIResponsive/Responsiveimage.png)
+![Kaku's Kitchen Responsive image](readme-images/AmIResponsive/Responsiveimage.png)
 
 
 ## Table of content
@@ -15,14 +15,14 @@ site :  https://deepika-garg.github.io/KakusKitchen/
     * [Target Audiences](#Target-Audiences)
     * [User Stories](#User-Stories)
     * [Aims](#Aims)
-    * [How to achieve this](#How-to-achieve-this)
+    * [Actions](#Actions)
  2. [Design](#Design)
       * [Wireframes](#Wireframes)
       * [ColourScheme](#Colour-scheme)
       * [Typography](#Typography)
       * [Imagery](#imagery)   
- 3. [Features](#Features)
-    * [Favicons](#Favicons)
+ 3. [Existing Features](#Existing-Features)
+    * [Favicon](#Favicon)
     * [Navigation Bar](#Navigation-Bar)
     * [Popular Dishes](#Popular-Dishes)
     * [Why Choose Us](#Why-Choose-Us)
@@ -31,21 +31,23 @@ site :  https://deepika-garg.github.io/KakusKitchen/
     * [Contact](#Contact)
     * [Call To Order](#Call-To-Order)
     * [Footer](#Footer)
- 4. [Final Design](#Final-Design)
- 5. [Deployment](#Deployment)
- 6. [Testing](#Testing)
-    * [AUTOMATED TESTING](#automated-testing)
-      * [W3C Validator](#w3c-validator)
-      * [Lighthouse](#lighthouse)
-    * [MANUAL TESTING](#manual-testing)
-      * [Testing User Stories](#testing-user-stories)
-      * [Manual Link Testing](#manual-link-testing)
-      * [Real World Testing](#real-world-testing)
- 7. [Technologies Used](#Technologies-Used)
+ 4. [Future Features](#Future-Features)
+ 5. [Technologies Used](#Technologies-Used)
     * [Languages](#Languages)
     * [Technology](#Technology)
- 8. [Project Link](#Project-link)
- 9. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
+ 6. [Final Design](#Final-Design)
+ 7. [Deployment](#Deployment)
+ 8. [Testing](#Testing)
+    * [Code Validation](#Code-Validation)
+      * [W3C Validator](#w3c-validator)
+      * [Lighthouse](#lighthouse)
+    * [Manual Testing](#manual-testing)
+      * [Testing User Stories](#testing-user-stories)
+      * [Manual Link Testing](#manual-link-testing)
+      * [Devices Testing](#Devices-testing)
+ 9. [Credit](#Credit)
+      * [Media](#media)
+      * [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
    
  ## Planning
@@ -64,7 +66,7 @@ This website was designed with careful consideration of its purpose, target audi
 4. **University Students**:
    - Students living away from home who are vegetarians and need affordable, healthy meal options. Kaku's Kitchen offers a perfect solution for students missing home-cooked meals.
 
-
+[Back to top](#Table-of-content)
    
 ### User Stories
 1. **As a First-Time Customer**:
@@ -81,7 +83,7 @@ This website was designed with careful consideration of its purpose, target audi
 4. **As a Busy Professional**:
    - I want the option to schedule an order in advance via the "Call to Order" feature so that I can focus on my work without worrying about meals on the day.
 
-
+[Back to top](#Table-of-content)
    
 ### Aims
 - To create a visually appealing, easy-to-navigate website that reflects the warmth and authenticity of Kaku's Kitchen.
@@ -90,8 +92,9 @@ This website was designed with careful consideration of its purpose, target audi
 - To increase awareness of the cloud kitchen in the local community.
 - To ensure the site is responsive and accessible across all devices.
 
-   
-## How to achieve this
+ [Back to top](#Table-of-content)  
+
+## Actions
 1. **User-Centered Design**:
    - Created a simple, intuitive layout with clear navigation to make it easy for users to explore the site.
    
@@ -106,6 +109,8 @@ This website was designed with careful consideration of its purpose, target audi
 
 5. **Fast Deployment**:
    - Deployed the site on GitHub Pages for easy access and updates. 
+
+   [Back to top](#Table-of-content)
 
 ## Design
 
@@ -123,24 +128,36 @@ This website was designed with careful consideration of its purpose, target audi
 #### Contact Page-
 ![alt text](readme-images/wireframes/contact-page.png)
 
+[Back to top](#Table-of-content)
+
 ### Colour Scheme
 Very less colors are used so that focus remains on images.
 
 ![color scheme](readme-images/colorscheme.png)
 
+[Back to top](#Table-of-content)
+
 ### Typography
 The font-families chosen are montserrat and Lora. For consistency I used montserrat for headings and titles and Lora was used for the text on the body and cards body.
+
+[Back to top](#Table-of-content)
 
 ### Imagery
 Imagery plays a very important part in the design for this website. I chose bright colourful tempting food images that complimented each other on the page. I added a hoover effect on the images of home page to give it more life.
 
 Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving out all the relevent information.
 
-## Features 
+
+[Back to top](#Table-of-content)
+
+
+## Existing Features 
 
 ### Favicon
 Favicon is added in the header of every page with the title.
-![Favicons](readme-images/features/favicon-title-image.png)
+![Favicon](readme-images/features/favicon-title-image.png)
+
+[Back to top](#Table-of-content)
 
 ### Navigation Bar
 Navigation bar is located at the top of every page, contains links to all the pages of the site to enable ease of navigation in one convenient location. it is fully responsive for all the devices as laptop, desktop, mobile and tablet. 
@@ -156,16 +173,22 @@ Navigation menu is converted to three vertical bars to save the space. which sho
 
 ![Navigation Bar Mobile](readme-images/features/navbar-mobile.png)
 
+[Back to top](#Table-of-content)
+
 ### Footer
 * Footer is available on each page and contain address, Email and phone no details along with social media links for Kaku's Kitchen. These links will open in a new tab for easy navigation for the user.
 * The footer is designed to encourage the user to visit Kaku's Kitchen's social media sites to keep them connected and have the most up to date information.
 
 ![Footer image](readme-images/features/footer-image.png)
 
+[Back to top](#Table-of-content)
+
 ### Call TO Order
  Call to Order button is provided in the hero/header section for convenience. User can quickly make a call and place order just by clicking that button. This button is connected with the contact information in the footer at the moment.
 
  ![Call to Order Button](readme-images/features/call-to-order-button.png)
+
+ [Back to top](#Table-of-content)
 
 ### Popular Dishes
 
@@ -173,295 +196,40 @@ Popular dishes images are added in the main section of home page. Images are hig
 
 ![Home Page](readme-images/features/popular-dishes-desktop.png)
 
+[Back to top](#Table-of-content)
+
 ### Why Choose Us
 
 I have added 5 star rating for user assurance and given reasons to choose the cloud kitchen.
 ![Why Choose Us](readme-images/features/choosing-reason.png)
 
+[Back to top](#Table-of-content)
+
 ### Menu
 Easy to read / navigate menu images are used. Prices and ingredients are clearly mentioned with individual food item. Phone number is mentioned in every menu card to make a quick call and place a order. 
 ![Food Menu Image](readme-images/features/foodmenu-image.png)
+
+[Back to top](#Table-of-content)
 
 ### About Us 
 Mission and history is provided in about section.
 ![About Image](readme-images/features/about-image.png)
 
+[Back to top](#Table-of-content)
+
 ### contact
 Contact page contain a hero image same as home page and about page. In the main section Form has been added on the contact page, where all the validations has been applied.
 ![Form Section](readme-images/features/form-image.png)
 
+[Back to top](#Table-of-content)
 
-## Final Design
-### Home page Responsiveness
+## Future Features
+* Call to order / Call to action button must make a call to the business phone number.
+* in the contact page st click of form submit button there must be notification to the business with all the information provided in the form.
+* business should be able to make changes/ add more items in the menu and the prices on regular basis.
 
-![Home Page](readme-images/AmIResponsive/HomeResponsive.png)
+[Back to top](#Table-of-content)
 
-### Menu page Responsiveness
-![Menu Page](readme-images/AmIResponsive/MenuResponsive.png)
-
-### About Page Responsiveness
-![About Page](readme-images/AmIResponsive/AboutResponsive.png)
-
-### Contact page Responsiveness
-
-![Contact Page](readme-images/AmIResponsive/ContactResponsive.png)
-
-## Deployment
-
-This site was deployed through GitHub Pages using the following steps:
-
-1. Log into GitHub.
-2. Locate the repository. In my case it is Deepika-Garg/Kaku's Kitchen
-3. Click the "settings" button.
-4. Then go to "Pages" tab in the left hand side sidebar.
-5. Once on the pages site I would ensure the following settings were applied
-	1.  Source would need to be set to ‘Deploy from branch’
-	2.  Branch will need to be set to main and then root. 
-6. Click the save button.
-The site has now been deployed, please note that this process may take a few minutes before the site goes live.
-7. The page will update and at the top it will say: "Your site is ready to be published at
- https://deepika-garg.github.io/KakusKitchen/
-
-### Local Development
-How to Fork
-To fork the repository:
-
-Log in (or sign up) to Github.
-Go to the repository for this project, Deepika-Garg/Kaku's Kitchen
-Click the Fork button in the top right corner.
-
-How to Clone
-To clone the repository:
-
-1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, Deepika-Garg/Kaku's Kitchen
-3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
-4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned Directory.
-5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
-
-## Testing
-
-
-I tested my site throughout the entire build. I have gone through each page using google chrome developer tools to ensure that each page is responsive on different screen sizes and devices and troubleshoot any issues as I went along.
-- - -
-
-## AUTOMATED TESTING
-
-### W3C Validator
-
-[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
-
-### HTML-
-
-![index html validation](readme-images/testing/w3cTesting/w3c-html-index-validation.png) - Passed
-
-![menu html validation](readme-images/testing/w3cTesting/w3c-html-menu-validation.png) - Passed
-
-![about html validation](readme-images/testing/w3cTesting/w3c-html-about-validation.png) - Passed
-
-![contact html validation](readme-images/testing/w3cTesting/w3c-html-contact-validation.png) - Passed
-
-![success html validation](readme-images/testing/w3cTesting/w3c-html-success-validation.png) - Passed
-
-### CSS - 
-css Validation
-![alt text](readme-images/testing/w3cTesting/w3c-css-validation.png) - Passed, No error found.
-
-
-### Lighthouse
-
-I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
-
-### Desktop Results
-
-All pages of the site are achieving a score of above 90 or better across the 4 categories.
-
-Home
-
-![index.html](readme-images/testing/LighthouseTesting/lighthouse-homepage.png)
-
-Menu
-
-![menu.html](readme-images/testing/LighthouseTesting/lighthouse-menupage.png)
-
-About
-
-![about.html](readme-images/testing/LighthouseTesting/lighthouse-aboutpage.png)
-
-Contact
-
-![contact.html](readme-images/testing/LighthouseTesting/lighthouse-contactpage.png)
-
-Success
-
-![success.html](readme-images/testing/LighthouseTesting/lighthouse-successpage.png)
-
-
-### Mobile Results
-
-All pages of the site on mobile devices are achieving good score across the 4 categories.
-
-Home
-
-![index.html](readme-images/testing/LighthouseTesting/LHMobile-home.png)
-
-Menu
-
-![menu.html](readme-images/testing/LighthouseTesting/LHMobile-menu.png)
-
-About
-
-![about.html](readme-images/testing/LighthouseTesting/LHMobile-about.png)
-
-Contact
-
-![contact.html](readme-images/testing/LighthouseTesting/LHMobile-contact.png)
-
-Success
-
-![success.html](readme-images/testing/LighthouseTesting/LHMobile-success.png)
-
-- - -
-
-## MANUAL TESTING
-
-### Testing User Stories
-
-`As a Customer`
-
-| Goals | Actions |
-| :--- | :--- |
-| As a new customer I want to know about the business. What it is and what does it offer.| I mentioned in cover text it is 100% indian vegetarian food cloud kithen. I added a Call to Order button to show it's call to order approach.| 
-| As a new customer I want to be able to easily navigate the website. | I added a navigation bar to all pages that gives the user an easy way to navigate the website. |
-| As a new customer I want to be able to easily find the contact details. | I added a footer with basic contact details for the Business. |
-| As a new customer I want to find out the menu and speciality of the business. | I added a card section on home page with the six popular dishes of Kaku's Kitchen. I have added a full menu offered by Kaku's Kitchen on menu page and navigation bar is on the top of all pages to go menu page.  |
-
-### Manual Link Testing
-
-#### __Global__
-
-- - -
-
-__Navigation bar__
-
-![The navbar is available on all pages](readme-images/features/navbar-desktop.png)
-
-__Expected__
-
-I expect the nav bar to link all the pages together and give easy navigation of the website. On each respective page the navbar will show what page you are on as shown below.
-
-Home page - Home option is underlined to show current page.
-![Navbar with home page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-home.png)
-
-Menu page - Menu option is underlined to show current page.
-![Navbar with menu page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-menu.png)
-
-Contact page - Contact option is underlined to show current page.
-![Navbar with contact page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-contact.png)
-
-About page - About option is underlined to show current page.
-![Navbar with about page being shown as the active page](readme-images/testing/ManualTesting/Navbar/Navbar-about.png)
-
-Success page - For success page contact option is highlighted as it is extension of contact page.
-![Navbar with success page is an extention of the contact page](readme-images/testing/ManualTesting/Navbar/Navbar-success.png)
-
-__Results__
-
-The navigation bar on all the pages works as designed and as expected.
-
-- - -
-
-__Footer__
-
-![The footer is carried across all pages](readme-images/testing/ManualTesting/TestFooter.png)
-
-__Expected__
-
-The social media links open up to the respective home page in a new tab. Pinned address will take you to the google map in new tab.
-
-__Results__
-
-Worked as intended.
-
-- - - 
-
-#### __Home Page__
-
-- - -
-
-__Hero call to action button__
-
-![Call to action button on home page](readme-images/testing/ManualTesting/CallToAction.png)
-__Expected__
-
-The user will click on the button which will take them to the contact detail in the footer section.
-
-__Results__
-
-The button worked as expected.
-
-- - -
-
-#### __Contact Page__
-
-- - - 
-
-__Form__
-
-![The form on the contact page](readme-images/testing/ManualTesting/FormValidation/FormImage.png)
-
-
-- - -
-
-__Form validation__
-![Name](readme-images/testing/ManualTesting/FormValidation/NameValidation.png)
-![alt text](image-1.png)
-
-![Email](readme-images/testing/ManualTesting/FormValidation/EmailValidation.png)
-
-![Phone Number](readme-images/testing/ManualTesting/FormValidation/PhoneValidation.png)
-
-Validation has been checked manually on all the field like above.
-
-Filled form ready to submit. Once you hit the submit button, it will direct you to the Thankyou/Success page. 
-
-![Filled Form](readme-images/testing/ManualTesting/FormValidation/FilledForm.png)
-
-__Results__
-
-Form is working as expected. 
-
-
-__ThankYou Page__
-
-![Sucess Page](readme-images/testing/SuccessPageValidation.png)
-
-Back to Home button on contact form will take you back to the home page.
-
-![Back to Home button](readme-images/testing/backtohomeValidation.png)
-
-__Result__
-
-Success page is working as expected.
-
-## REAL WORLD TESTING
-
-Real World testing was performed on the following devices:
-
-* Laptop:
-  * Macbook Air
-  * Microsoft windows
-* Tablet
-  * iPad 
-* Mobile Devices:
-  * iPhone 13 
-  * iPhone 15 pro
-  
-
-Each device tested the site using the following browsers:
-
-* Google Chrome
-* Safari
 
 ## Technologies Used
 
@@ -505,9 +273,81 @@ Code insitute - Inspiration from Love Running & Boaredwalk projects
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 Visual Studio Code is used as an editor to write code.
 
-## Project Link
+[Back to top](#Table-of-content)
 
+## Final Design
+### Home page Responsiveness
+
+![Home Page](readme-images/AmIResponsive/HomeResponsive.png)
+
+### Menu page Responsiveness
+![Menu Page](readme-images/AmIResponsive/MenuResponsive.png)
+
+### About Page Responsiveness
+![About Page](readme-images/AmIResponsive/AboutResponsive.png)
+
+### Contact page Responsiveness
+
+![Contact Page](readme-images/AmIResponsive/ContactResponsive.png)
+
+[Back to top](#Table-of-content)
+
+## Deployment
+
+This site was deployed through GitHub Pages using the following steps:
+
+1. Log into GitHub.
+2. Locate the repository. In my case it is Deepika-Garg/Kaku's Kitchen
+3. Click the "settings" button.
+![Deployement step1](readme-images/deployement1.png)
+4. Then go to "Pages" tab in the left hand side sidebar.
+![Deployement step2](readme-images/deployement2.png)
+5. Once on the pages site I would ensure the following settings were applied
+	1.  Source would need to be set to ‘Deploy from branch’
+	2.  Branch will need to be set to main and then root. 
+6. Click the save button.
+![Deployement step3](readme-images/deployement3.png)
+
+The site has now been deployed, please note that this process may take a few minutes before the site goes live.
+7. The page will update and at the top it will say: "Your site is ready to be published at
  https://deepika-garg.github.io/KakusKitchen/
+
+
+[Back to top](#Table-of-content)
+
+
+### Local Development
+#### How to Fork
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, Deepika-Garg/Kaku's Kitchen
+3. Click the Fork button in the top right corner.
+
+![Fork](readme-images/fork.png)
+
+
+#### How to Clone
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, Deepika-Garg/Kaku's Kitchen
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+![clone](readme-images/Clone.png)
+4. In your IDE of choice, open 'Git Bash'.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+![clone](readme-images/Clone2.png)
+
+[Back to top](#Table-of-content)
+
+## Testing
+
+I tested my site throughout the entire build. I have gone through each page using google chrome developer tools to ensure that each page is responsive on different screen sizes and devices and troubleshoot any issues as I went along.
+- - -
+Please refer to [Test Document](TESTING.md) for all information on testing Kaku's Kitchen.
+
+[Back to top](#Table-of-content)
 
 ## Acknowledgments / Thank you's
 
@@ -520,4 +360,4 @@ I would like to thank following people for the help and advise they have given m
 * Code institute for the outstanding course documentation.
 * Finally, I would like to thank my friend to allow me to use her business details for this project. 
 
- 
+ [Back to top](#Table-of-content)
