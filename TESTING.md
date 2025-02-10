@@ -8,12 +8,16 @@
       * [Testing User Stories](#testing-user-stories)
       * [Manual Link Testing](#manual-link-testing)
       * [Devices Testing](#Devices-testing)
+    * [Known Bugs](#Known-bugs)
 
 ## Code Validation
 
 ### W3C Validator
 
-[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+[W3C html Validator](https://validator.w3.org/) 
+ was used to validate the HTML on all pages of the website. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was also used to validate the CSS.
+
+ Minor errors were found which i have described in [Known Bugs](#known-bugs) section. After a fix and retest, no errors were returned.
 
 ### HTML-
 
@@ -93,6 +97,20 @@ Success
 
 - - -
 
+# Known Bugs
+
+Menu Page 
+![Menu Html Bug Image](readme-images/testing/w3cTesting/menu-html-error.png)
+Errors were corrected easily as suggested by validator.
+
+
+CSS
+![CSS Bug Image](readme-images/testing/w3cTesting/CSSError.png)
+Error was corrected.
+
+* Another bug was images's size. When validated through lighthouse, Performance was really low.
+fixes:- I compressed all the images of the website. That's how performance was improved.
+
 ## Manual testing
 
 ### Testing User Stories
@@ -101,16 +119,16 @@ Success
 
 | Goals | Actions |
 | :--- | :--- |
-| As a new customer I want to know about the business. What it is and what does it offer.| I mentioned in cover text it is 100% indian vegetarian food cloud kithen. I added a Call to Order button to show it's call to order approach.| 
-| As a new customer I want to be able to easily navigate the website. | I added a navigation bar to all pages that gives the user an easy way to navigate the website. |
-| As a new customer I want to be able to easily find the contact details. | I added a footer with basic contact details for the Business. |
-| As a new customer I want to find out the menu and speciality of the business. | I added a card section on home page with the six popular dishes of Kaku's Kitchen. I have added a full menu offered by Kaku's Kitchen on menu page and navigation bar is on the top of all pages to go menu page.  |
+| As a customer I want to know about the business. What it is and what does it offer.| I mentioned in cover text it is 100% indian vegetarian food cloud kithen. I added a Call to Order button to show it's call to order approach.| 
+| As a customer I want to be able to easily navigate the website. | I added a navigation bar to all pages that gives the user an easy way to navigate the website. |
+| As a customer I want to be able to easily find the contact details. | I added a footer with basic contact details for the Business. |
+| As a customer I want to find out the menu and speciality of the business. | I added a card section on home page with the six popular dishes of Kaku's Kitchen. I have added a full menu offered by Kaku's Kitchen on menu page and navigation bar is on the top of all pages to go menu page.  |
 
 
 [Back to top](#Table-of-content)
 
 
-### Manual Link Testing
+### Manually Link Testing
 
 #### __Global__
 
@@ -228,17 +246,24 @@ Success page is working as expected.
 
 ## Testing on different devices
 
-Testing was performed on the following devices:
+## Responsiveness Test
 
-* Laptop:
-  * Macbook Air
-  * Microsoft windows
-* Tablet
-  * iPad 
-* Mobile Devices:
-  * iPhone 13 
-  * iPhone 15 pro
-  
+* The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Am I Responsive](https://ui.dev/amiresponsive?url=https://deepika-garg.github.io/KakusKitchen/).
+
+|        | Galaxy S5 | iPhone 13| iPad | iPhone 15 pro| Laptop <1200px | Display >1200px |
+|--------|-----------|----------|------|--------------|-----------------|----------------|
+| Render | pass      | pass     | pass | pass         | pass            | pass           |
+| Images | pass      | pass     | pass | pass         | pass            | pass           |
+| Links  | pass      | pass     | pass | pass         | pass            | pass           |
+
+Note: On wide display types the contents of the site are restricted in width to 2000px. This helps the UX by not spreading the content too wide on the extra wide screens.
+
+## Browser Compatibility
+
+Kaku's Kitchen site was tested on the following browsers with no visible issues for the user. 
+Google Chrome, Safari. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes.
+
 
 [Back to top](#Table-of-content)
+Back to [Readme](./README.md#testing)
 

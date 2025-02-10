@@ -337,10 +337,43 @@ To clone the repository:
 ## Testing
 
 I tested my site throughout the entire build. I have gone through each page using google chrome developer tools to ensure that each page is responsive on different screen sizes and devices and troubleshoot any issues as I went along.
-- - -
+
 Please refer to [Test Document](TESTING.md) for all information on testing Kaku's Kitchen.
 
 [Back to top](#Table-of-content)
+
+# Credit
+
+## Media
+
+Code insitute - Inspiration from Love Running & Boaredwalk projects 
+
+[Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+
+[Github](https://github.com/) - To save and store the files for the website.
+
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+[Font Awesome](https://fontawesome.com/) - For the iconography on the website.
+
+[Bootstrap Version 5](https://getbootstrap.com/) - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+
+[Favicon.io](https://favicon.io/) To create favicon.
+
+[StockAdobe](https://stock.adobe.com/uk/) - All the images are borrowed from Stock Adobe.
+
+[Image Resizer](https://imageresizer.com/)- For resizing images and compress them.
+
+[Compressor](https://compressor.io/) - To compress images.
+
+[Convertio](https://convertio.co/) - To covert images to WebP format. 
+
+[Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+[Webaim](https://wave.webaim.org/) to test accesibility of the deployed website.
+
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+Visual Studio Code is used as an editor to write code.
 
 ## Acknowledgments / Thank you's
 
