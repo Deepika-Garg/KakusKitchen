@@ -215,8 +215,8 @@ This site was deployed through GitHub Pages using the following steps:
 3. Click the "settings" button.
 4. Then go to "Pages" tab in the left hand side sidebar.
 5. Once on the pages site I would ensure the following settings were applied
-	5.1.  Source would need to be set to ‘Deploy from branch’
-	5.2.  Branch will need to be set to main and then root. 
+	1.  Source would need to be set to ‘Deploy from branch’
+	2.  Branch will need to be set to main and then root. 
 6. Click the save button.
 The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 7. The page will update and at the top it will say: "Your site is ready to be published at
@@ -513,11 +513,11 @@ Visual Studio Code is used as an editor to write code.
 
 I would like to thank following people for the help and advise they have given me in this project.
 
-My mentor Precious Ijege for his guidence and feedback throughout this milestone project.
-Marco Tot our class cohort facilitator for his constant assistance and encouragement.
-Slack Community for their endless support.
-Kera Cudmore for creating the structure of Readme document. 
-Code institute for the outstanding course documentation.
-Finally, I would like to thank my friend to allow me to use her business details for this project. 
+* My mentor Precious Ijege for his guidence and feedback throughout this milestone project.
+* Marco Tot our class cohort facilitator for his constant assistance and encouragement.
+* Slack Community for their endless support.
+* Kera Cudmore for creating the structure of Readme document. 
+* Code institute for the outstanding course documentation.
+* Finally, I would like to thank my friend to allow me to use her business details for this project. 
 
  
