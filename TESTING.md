@@ -1,12 +1,12 @@
 # Testing
 
-[Testing](#Testing)
+1. [Testing](#Testing)
     * [Code Validation](#Code-Validation)
       * [W3C Validator](#w3c-validator)
       * [Lighthouse](#lighthouse)
     * [Manual Testing](#manual-testing)
       * [Testing User Stories](#testing-user-stories)
-      * [Manual Link Testing](#manual-link-testing)
+      * [Manually Link Testing](#manually-link-testing)
       * [Devices Testing](#Devices-testing)
     * [Known Bugs](#Known-bugs)
 
@@ -36,7 +36,7 @@ CSS Validation
 
 ![CSS Validation](readme-images/testing/w3cTesting/w3c-css-validation.png) - Passed, No error found.
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 
 ### Lighthouse
@@ -55,6 +55,7 @@ Menu
 
 ![menu.html](readme-images/testing/LighthouseTesting/lighthouse-menupage.png)
 
+
 About
 
 ![about.html](readme-images/testing/LighthouseTesting/lighthouse-aboutpage.png)
@@ -67,7 +68,7 @@ Success
 
 ![success.html](readme-images/testing/LighthouseTesting/lighthouse-successpage.png)
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 ### Mobile Results
 
@@ -93,7 +94,7 @@ Success
 
 ![success.html](readme-images/testing/LighthouseTesting/LHMobile-success.png)
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 - - -
 
@@ -125,7 +126,7 @@ fixes:- I compressed all the images of the website. That's how performance was i
 | As a customer I want to find out the menu and speciality of the business. | I added a card section on home page with the six popular dishes of Kaku's Kitchen. I have added a full menu offered by Kaku's Kitchen on menu page and navigation bar is on the top of all pages to go menu page.  |
 
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 
 ### Manually Link Testing
@@ -161,7 +162,7 @@ __Results__
 The navigation bar on all the pages works as designed and as expected.
 
 - - -
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 
 __Footer__
@@ -177,7 +178,7 @@ __Results__
 Worked as intended.
 
 - - - 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 
 #### __Home Page__
@@ -196,7 +197,7 @@ __Results__
 The button worked as expected.
 
 - - -
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 #### __Contact Page__
 
@@ -227,7 +228,7 @@ __Results__
 
 Form is working as expected. 
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 
 __ThankYou Page__
@@ -242,7 +243,7 @@ __Result__
 
 Success page is working as expected.
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 
 ## Testing on different devices
 
@@ -264,6 +265,6 @@ Kaku's Kitchen site was tested on the following browsers with no visible issues 
 Google Chrome, Safari. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes.
 
 
-[Back to top](#Table-of-content)
+[Back to top](#Testing)
 Back to [Readme](./README.md#testing)
 
