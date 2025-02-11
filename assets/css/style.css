@@ -25,7 +25,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 600;
     background-color: #f8f9fa;
-    overflow:visible;
+    
     
 }
 
@@ -219,9 +219,17 @@ position:relative;
 #social-networks {
     text-align: center;
     padding: 5px 0;
-    display: flex;
+    display: flex !important;
+    visibility: visible !important;
     justify-content: space-evenly;
     list-style-type: none;
+}
+#social-networks i {
+    font-size: 130%;
+    padding: 5%;
+    color: #3a3a3a;
+    display: flex !important;
+    visibility: visible !important;
 }
 #contact-footer
 { 
@@ -233,11 +241,7 @@ position:relative;
     font-size: 120%;
     color: black;
 }
-#social-networks i {
-    font-size: 130%;
-    padding: 5%;
-    color: #3a3a3a;
-}
+
 /* contact page specific */
 #form-section p
 {
@@ -304,10 +308,26 @@ position:relative;
      /* Hero image */
      #cover-text {
         width: 600px;
-        right: 20%;
+        right: 28%;
         margin-left: 40px;
         
     }
+    /* Footer */
+#social-networks {
+    text-align: center;
+    padding: 5px 0;
+    display: flex !important;
+    visibility: visible !important;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-networks i {
+    font-size: 130%;
+    padding: 5%;
+    color: #3a3a3a;
+    display: flex ;
+    visibility: visible !important;
+}
 }
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
