@@ -113,7 +113,7 @@ nav {
 main {
   /* Make main element take up any surplus space to push footer down */
   flex: 1 0 auto;
-  margin-top: 50px;
+  margin-top: 47px;
 }
 #hero {
   height: 350px;
@@ -277,20 +277,19 @@ main {
     display: none;
   }
   #logo-title {
-    font-size: 200%;
+    font-size: 280%;
     line-height: 75px;
     margin: 0 0.5rem;
   }
   /* Main content */
   main {
     /* Push main content down to accommodate larger header */
-    margin-top: 100px;
+    margin-top: 97px;
   }
   /* Hero image */
   #cover-text {
     width: 600px;
-    right: 28%;
-    margin-left: 40px;
+    right: 30%;
   }
   
 }
