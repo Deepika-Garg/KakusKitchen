@@ -25,6 +25,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 600;
     background-color: #f8f9fa;
+    overflow:visible;
     
 }
 
@@ -291,7 +292,7 @@ position:relative;
         display: none;
     }
     #logo-title {
-        font-size: 280%;
+        font-size: 200%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
@@ -303,7 +304,7 @@ position:relative;
      /* Hero image */
      #cover-text {
         width: 600px;
-        right: 30%;
+        right: 20%;
         margin-left: 40px;
         
     }
