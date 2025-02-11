@@ -223,14 +223,17 @@ position:relative;
     list-style-type: none;
 }
 #contact-footer
-{
-    
+{ 
     padding: 5px;
     color: #000000;
     
 }
-#social-networks i {
+#contact-footer i {
     font-size: 120%;
+    color: black;
+}
+#social-networks i {
+    font-size: 130%;
     padding: 5%;
     color: #3a3a3a;
 }

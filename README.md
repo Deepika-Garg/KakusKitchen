@@ -228,8 +228,8 @@ Contact page contain a hero image same as home page and about page. In the main 
 
 ### Languages
 Languages Used
-HTML - To create a basic site.
-CSS - To create a nice style and to stand-out.
+1. HTML - To create a basic site.
+2. CSS - To create a nice style and to stand-out.
 
 ### Technology 
 
@@ -250,6 +250,8 @@ Code insitute - Inspiration from Love Running & Boaredwalk projects
 [Bootstrap Version 5](https://getbootstrap.com/) - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
 
 [Favicon.io](https://favicon.io/) To create favicon.
+
+[Color Adobe](https://color.adobe.com/)  To create the color pallete
 
 [StockAdobe](https://stock.adobe.com/uk/) - All the images are borrowed from Stock Adobe.
 
