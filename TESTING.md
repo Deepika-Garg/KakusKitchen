@@ -263,6 +263,8 @@ Note: On wide display types the contents of the site are restricted in width to 
 Kaku's Kitchen site was tested on the following browsers with no visible issues for the user. 
 Google Chrome, Safari. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes.
 
+## WebAIM 
+All the pages are checked and found no errors.
 
 * [Back to top](#Testing)
 * Back to [Readme](./README.md#testing)
