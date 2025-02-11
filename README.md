@@ -1,6 +1,6 @@
 # Kaku's Kitchen
 
-Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, established in 2020. Renowned for its authentic flavors and dedication to vegetarian cuisine, Kaku's Kitchen serves a variety of delicious homemade Indian dishes made with love and care. This project is a four-page website designed to showcase the essence of Kaku's Kitchen, featuring a menu, a contact page, and information about the kitchen's story and philosophy.
+Kaku's Kitchen is a 100% Indian vegetarian cloud kitchen based in Penarth, established in 2020. Renowned for its authentic flavors and dedication to vegetarian cuisine, Kaku's Kitchen serves a variety of delicious homemade Indian dishes made with love and care. This project is a four main pages website designed to showcase the essence of Kaku's Kitchen, featuring a menu, a contact page, and information about the kitchen's story and philosophy. Fifth page is a success page or Thank you page in continuation with the contact page form submission.
 
 Deployed via GitHub Pages, this responsive website offers a delightful browsing experience and highlights the charm of authentic Indian vegetarian food.
 
@@ -124,7 +124,7 @@ This website was designed with careful consideration of its purpose, target audi
 [Back to top](#Table-of-content)
 
 ### Colour Scheme
-Very less colors are used so that focus remains on images.
+Very less colors are used so that focus remains on images. [Color Adobe](https://color.adobe.com/) to create the color pallete. contrast of color is good.
 
 ![color scheme](readme-images/colorscheme.png)
 
@@ -136,7 +136,7 @@ The font-families chosen are montserrat and Lora. For consistency I used montser
 [Back to top](#Table-of-content)
 
 ### Imagery
-Imagery plays a very important part in the design for this website. I chose bright colourful tempting food images that complimented each other on the page. I added a hoover effect on the images of home page to give it more life.
+Imagery plays a very important part in the design for this website. I chose bright colourful tempting food images that complimented each other on the page. I added a hoover effect on the images of home page to give it more life. Images are taken from [StockAdobe](https://stock.adobe.com/uk/). Images on the menu page are taken from the actual business called Kaku's Kitchen, based in Penarth. 
 
 Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving out all the relevent information.
 
@@ -263,7 +263,7 @@ Code insitute - Inspiration from Love Running & Boaredwalk projects
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
-[Webaim](https://wave.webaim.org/) to test accesibility of the deployed website.
+[Webaim](https://wave.webaim.org/) To test accesibility of the deployed website.
 
 
 
@@ -364,9 +364,8 @@ Code insitute - Inspiration from Love Running & Boaredwalk projects
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
-
-
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
 Visual Studio Code is used as an editor to write code.
 
 ## Acknowledgments / Thank you's
