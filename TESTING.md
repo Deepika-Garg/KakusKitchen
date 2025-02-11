@@ -4,20 +4,19 @@
     * [Code Validation](#Code-Validation)
       * [W3C Validator](#w3c-validator)
       * [Lighthouse](#lighthouse)
+    * [Known Bugs](#Known-bugs)
     * [Manual Testing](#manual-testing)
       * [Testing User Stories](#testing-user-stories)
       * [Manually Link Testing](#manually-link-testing)
-      * [Devices Testing](#Devices-testing)
-    * [Known Bugs](#Known-bugs)
+      * [Responsiveness Testing](#Responsiveness-testing)
+    
 
 ## Code Validation
 
 ### W3C Validator
 
-[W3C html Validator](https://validator.w3.org/) 
- was used to validate the HTML on all pages of the website. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was also used to validate the CSS.
-
- Minor errors were found which i have described in [Known Bugs](#known-bugs) section. After a fix and retest, no errors were returned.
+<a href="https://validator.w3.org/" target="_blank" rel="noopener" >W3C html Validator</a> was used to validate the HTML on all pages of the website. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was also used to validate the CSS.
+Minor errors were found which I have described in [Known Bugs](#known-bugs) section. After a fix and retest, no errors were returned.
 
 ### HTML-
 
@@ -247,7 +246,7 @@ Success page is working as expected.
 
 ## Testing on different devices
 
-## Responsiveness Test
+## Responsiveness Testing
 
 * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Am I Responsive](https://ui.dev/amiresponsive?url=https://deepika-garg.github.io/KakusKitchen/).
 
@@ -265,6 +264,6 @@ Kaku's Kitchen site was tested on the following browsers with no visible issues 
 Google Chrome, Safari. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes.
 
 
-[Back to top](#Testing)
-Back to [Readme](./README.md#testing)
+* [Back to top](#Testing)
+* Back to [Readme](./README.md#testing)
 

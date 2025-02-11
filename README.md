@@ -348,16 +348,6 @@ Please refer to [Test Document](TESTING.md) for all information on testing Kaku'
 
 Code insitute - Inspiration from Love Running & Boaredwalk projects 
 
-[Balsamiq](https://balsamiq.com/) - Used to create wireframes.
-
-[Github](https://github.com/) - To save and store the files for the website.
-
-[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
-
-[Font Awesome](https://fontawesome.com/) - For the iconography on the website.
-
-[Bootstrap Version 5](https://getbootstrap.com/) - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
-
 [Favicon.io](https://favicon.io/) To create favicon.
 
 [StockAdobe](https://stock.adobe.com/uk/) - All the images are borrowed from Stock Adobe.
