@@ -291,6 +291,10 @@ main {
     /* Push main content down to accommodate larger header */
     margin-top: 97px;
   }
+  #main404
+  {
+    margin-top: 85px;
+  }
   /* Hero image */
   #cover-text {
     width: 600px;
