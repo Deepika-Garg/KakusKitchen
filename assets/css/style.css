@@ -132,7 +132,6 @@ main {
   padding-top: 30px;
   padding-left: 40px;
   margin-left: 20px;
-  right:35%;
 }
 /*Card Styles*/
 .card {
@@ -299,5 +298,9 @@ main {
   }
   #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
+  }
+  #cover-text {
+    width: 600px;
+    right: 30%;
   }
 }
