@@ -30,6 +30,9 @@ Minor errors were found which I have described in [Known Bugs](#known-bugs) sect
 
 ![success html validation](readme-images/testing/w3cTesting/w3c-html-success-validation.png) - Passed
 
+![404 html validation](readme-images/testing/w3cTesting/w3c-html-404-validation.png) - Passed
+
+
 ### CSS - 
 CSS Validation
 
@@ -116,6 +119,11 @@ Errors were corrected easily as suggested by validator.
 CSS
 ![CSS Bug Image](readme-images/testing/w3cTesting/CSSError.png)
 Error was corrected.
+
+404 Page
+![404 Bug Image](readme-images/testing/w3cTesting/404Error.png)
+Error was corrected.
+
 
 * Another bug was images's size. When validated through lighthouse, Performance was really low.
 fixes:- I compressed all the images of the website. That's how performance was improved.
@@ -260,7 +268,6 @@ __404 Page__
 Back to Kaku's Kitchen Home Page button on 404 page will take you back to the home page. This is the only link to go back to home page. I have not provided any navigation bar on this page. Hover effect is working on the button as all the button on the website.
 
 ![Back to Home Page button](readme-images/testing/backtoKakusKitchenhomePageValidation.png)
-![alt text](image.png)
 
 __Result__
 
