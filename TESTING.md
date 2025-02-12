@@ -69,6 +69,11 @@ Success
 
 [Back to top](#Testing)
 
+![404.html](readme-images/testing/LighthouseTesting/lighthouse-404page.png)
+
+[Back to top](#Testing)
+
+
 ### Mobile Results
 
 All pages of the site on mobile devices are achieving good score across the 4 categories.
@@ -92,6 +97,10 @@ Contact
 Success
 
 ![success.html](readme-images/testing/LighthouseTesting/LHMobile-success.png)
+
+[Back to top](#Testing)
+
+![404.html](readme-images/testing/LighthouseTesting/LHMobile-404.png)
 
 [Back to top](#Testing)
 
@@ -243,6 +252,23 @@ __Result__
 Success page is working as expected.
 
 [Back to top](#Testing)
+
+__404 Page__
+
+![404 Page](readme-images/testing/404PageValidation.png)
+
+Back to Kaku's Kitchen Home Page button on 404 page will take you back to the home page. This is the only link to go back to home page. I have not provided any navigation bar on this page. Hover effect is working on the button as all the button on the website.
+
+![Back to Home Page button](readme-images/testing/backtoKakusKitchenhomePageValidation.png)
+![alt text](image.png)
+
+__Result__
+
+404 page is working as expected.
+
+[Back to top](#Testing)
+
+
 
 ## Testing on different devices
 
