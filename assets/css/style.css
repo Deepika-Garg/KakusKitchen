@@ -121,6 +121,12 @@ main {
   background: url("../images/hero-image.webp") no-repeat center center/cover;
   position: relative;
 }
+#hero404 {
+  height: 350px;
+  width: 100%;
+  background: url("../images/404Image.png") no-repeat center center/cover;
+  position: relative;
+}
 
 #cover-text {
   /* Final rgba value sets the opacity so it is semi-transparent */
@@ -133,6 +139,7 @@ main {
   padding-left: 40px;
   margin-left: 20px;
 }
+
 /*Card Styles*/
 .card {
   border: none;
