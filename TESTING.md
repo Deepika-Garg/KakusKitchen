@@ -140,6 +140,9 @@ fixes:- I compressed all the images of the website. That's how performance was i
 | As a customer I want to be able to easily navigate the website. | I added a navigation bar to all pages that gives the user an easy way to navigate the website. |
 | As a customer I want to be able to easily find the contact details. | I added a footer with basic contact details for the Business. |
 | As a customer I want to find out the menu and speciality of the business. | I added a card section on home page with the six popular dishes of Kaku's Kitchen. I have added a full menu offered by Kaku's Kitchen on menu page and navigation bar is on the top of all pages to go menu page.  |
+| As a customer I want to confirm that business recieved my queries and reply. | I added a Thank you page/Success page in which a confirmation message will appear after customer add all the details and enquire in contact form. |
+|As a customer I want to know if it is online order or I need to make a call to order. | I added a call to order button on all the pages.|
+| As a customer I want to make sure if cloud kitchen business is following the hygiene routine. | I added 5 star hygiene rating image for user satisfaction.| 
 
 
 [Back to top](#Testing)

@@ -62,19 +62,13 @@ This website was designed with careful consideration of its purpose, target audi
 [Back to top](#Table-of-content)
    
 ### User Stories
-1. **As a First-Time Customer**:
-   - I want to navigate the website easily and find out about the menu and eating option. 
-   - As it is a call to order style business as a new customer I want to speak directly with Kaku's Kitchen to understand the ordering process and place an order.
-   - I want to know about either it is collection or delievery. 
-
-2. **As a Returning Customer**:
-   - I want to place an order for my favorite dishes a day in advance so that I can avoid missing out due to high demand.
-
-3. **As a Customer Hosting a Gathering**:
-   - I want to call a day in advance to confirm the availability of dishes for a planned gathering so that I can finalize my event preparations.
-
-4. **As a Busy Professional**:
-   - I want the option to schedule an order in advance via the "Call to Order" feature so that I can focus on my work without worrying about meals on the day.
+1. As a customer I want to know about the business. What it is and what does it offer.
+2. As a customer I want to be able to easily navigate the website.
+3. As a customer I want to be able to easily find the contact details.
+4. As a customer I want to find out the menu and speciality of the business.
+5. As a customer I want to confirm that business recieved my queries and reply.
+6. As a customer I want to know if it is online order or I need to make a call to order.  
+7. As a customer I want to make sure if cloud kitchen business is following the hygiene routine. 
 
 [Back to top](#Table-of-content)
    
@@ -218,8 +212,10 @@ Contact page contain a hero image same as home page and about page. In the main 
 
 ## Future Features
 * Call to order / Call to action button must make a call to the business phone number.
-* in the contact page st click of form submit button there must be notification to the business with all the information provided in the form.
-* business should be able to make changes/ add more items in the menu and the prices on regular basis.
+* In the contact page st click of form submit button there must be notification to the business with all the information provided in the form.
+* Business should be able to make changes/ add more items in the menu and the prices on regular basis.
+* I will add the testimonials /customer reviews either on the home page or about page.
+
 
 [Back to top](#Table-of-content)
 
@@ -231,13 +227,7 @@ Languages Used
 1. HTML - To create a basic site.
 2. CSS - To create a nice style and to stand-out.
 
-### Technology 
-
-### Frameworks, Libraries & Programs Used
-
-Kaku's Kitchen website was built using the below sources
-
-Code insitute - Inspiration from Love Running & Boaredwalk projects 
+###  Technology 
 
 [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
 
@@ -264,8 +254,6 @@ Code insitute - Inspiration from Love Running & Boaredwalk projects
 [Am I Responsive?](https://ui.dev/amiresponsive) To show the website image on a range of devices.
 
 [Webaim](https://wave.webaim.org/) To test accesibility of the deployed website.
-
-
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 Visual Studio Code is used as an editor to write code.
