@@ -41,6 +41,9 @@ Deployed via GitHub Pages, this responsive website offers a delightful browsing 
  9. [Credit](#Credit)
       * [Media](#media)
       * [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
+* [Note on Repository Fork](#note-on-repository-fork)
+
+
 
    
  ## Planning
@@ -348,7 +351,7 @@ Please refer to [Test Document](TESTING.md) for all information on testing Kaku'
 
 # Credit
 
-## Content 
+## Content
 
 Menu images in menu page and business owner image in about page have been taken from the actual business with permission. All the content has been written by developer/me. All the food images are taken from StockAdobe website. 404 page image is made from croping the image from dribble(source is mentioned in media section).  
 
@@ -386,3 +389,8 @@ I would like to thank following people for the help and advise they have given m
 * Finally, I would like to thank my friend to allow me to use her business details for this project. 
 
  [Back to top](#Table-of-content)
+
+ ## Note on Repository Fork
+
+This repository was originally forked from my previous GitHub account due to an issue with accessing Gitpod. After facing difficulties, I created a new account and continued the development here to complete the project. The work presented in this repository is entirely my own, and no external contributions were made to the source repository. 
+
