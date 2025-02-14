@@ -348,6 +348,10 @@ Please refer to [Test Document](TESTING.md) for all information on testing Kaku'
 
 # Credit
 
+## Content 
+
+Menu images in menu page and business owner image in about page have been taken from the actual business with permission. All the content has been written by developer/me. All the food images are taken from StockAdobe website. 404 page image is made from croping the image from dribble(source is mentioned in media section).  
+
 ## Media
 
 Code insitute - Inspiration from Love Running & Boaredwalk projects 
@@ -364,6 +368,8 @@ Code insitute - Inspiration from Love Running & Boaredwalk projects
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
+[404 Image](https://dribbble.com/shots/11526848-404-Page-Restaurant-Daily-UI-008#)- credit goes to this image.
+
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
 Visual Studio Code is used as an editor to write code.
@@ -376,7 +382,7 @@ I would like to thank following people for the help and advise they have given m
 * Marco Tot our class cohort facilitator for his constant assistance and encouragement.
 * Slack Community for their endless support.
 * Kera Cudmore for telling how to create the structure of Readme [document](https://github.com/kera-cudmore/readme-examples). 
-* Code institute for the outstanding course documentation.
+* Code institute for the outstanding course documentation and for providing opportunity to learn and develop this project.
 * Finally, I would like to thank my friend to allow me to use her business details for this project. 
 
  [Back to top](#Table-of-content)
